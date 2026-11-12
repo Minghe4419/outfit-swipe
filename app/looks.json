@@ -1,83 +1,22 @@
 [
   {
-    "id": "look-5864ab544ac0",
-    "title": "藏蓝羽绒与浅蓝长裤",
-    "image": "https://cdn.imweb.me/upload/S20260806bd7dcd774a5f3/705b3aa01810f.jpg",
-    "source": "https://code-graphy.com/archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=175241201&t=board",
-    "sourceName": "CODEGRAPHY",
-    "selectionBasis": "品牌官方造型集",
+    "id": "ms-1570287520897017644",
+    "order": 0,
+    "title": "黑色长大衣与垂坠宽裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/12/4d30a78713924f78a37d07812ff0052a.jpg",
+    "source": "https://www.musinsa.com/snap/1570287520897017644",
+    "sourceName": "MUSINSA · klnny",
+    "sourceAuthor": "klnny",
+    "sourceLikes": 3,
+    "sourcePublishedAt": "2026-11-12T13:02:00+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
       "thickness": [
         "厚暖"
       ],
       "style": [
-        "休闲"
-      ],
-      "palette": [
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "秋冬"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/004.jpg",
-    "order": 0
-  },
-  {
-    "id": "look-074b5a279abb",
-    "title": "深绿运动外套与迷彩阔腿裤",
-    "image": "https://images.wear2.jp/coordinate/xVidplyv/8gecfzDL/1761056615_276.jpg",
-    "source": "https://wear.jp/jukiya0324/25935073/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "大地色"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/404.jpg",
-    "order": 1
-  },
-  {
-    "id": "look-e725562f1ee8",
-    "title": "灰色羽绒与深色长裤",
-    "image": "https://cdn.shopify.com/s/files/1/0962/1579/3977/files/26winter66.png?v=1793769756&width=800",
-    "source": "https://covernat.jp/pages/26-winter-uni-lookbook",
-    "sourceName": "COVERNAT",
-    "selectionBasis": "品牌官方造型集",
-    "facets": {
-      "thickness": [
-        "厚暖"
-      ],
-      "style": [
-        "简约",
-        "休闲"
+        "简约"
       ],
       "palette": [
         "黑白灰"
@@ -92,26 +31,185 @@
         "秋冬"
       ]
     },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/110.jpg",
-    "order": 2
+    "note": "韩系男生 · 整套灵感",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 1,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/001.jpg"
   },
   {
-    "id": "look-003",
+    "id": "ms-1570022645392687910",
+    "order": 1,
+    "title": "湖蓝短棉服与浅灰工装裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/11/890e158d57e74effb6b603a459034c2c.jpg",
+    "source": "https://www.musinsa.com/snap/1570022645392687910",
+    "sourceName": "MUSINSA · 대마왕낄낄",
+    "sourceAuthor": "대마왕낄낄",
+    "sourceLikes": 3,
+    "sourcePublishedAt": "2026-11-11T19:29:28+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
+    "facets": {
+      "thickness": [
+        "厚暖"
+      ],
+      "style": [
+        "休闲"
+      ],
+      "palette": [
+        "亮色点缀"
+      ],
+      "silhouette": [
+        "宽松"
+      ],
+      "layering": [
+        "叠穿"
+      ],
+      "season": [
+        "秋冬"
+      ]
+    },
+    "note": "韩系男生 · 整套灵感",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 4,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/004.jpg"
+  },
+  {
+    "id": "ms-1570270054616974888",
+    "order": 2,
+    "title": "橄榄短夹克与黑色围巾",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/12/828f688cbd6c4cb78aba0e495b82dd05.jpg",
+    "source": "https://www.musinsa.com/snap/1570270054616974888",
+    "sourceName": "MUSINSA · 식은얼",
+    "sourceAuthor": "식은얼",
+    "sourceLikes": 3,
+    "sourcePublishedAt": "2026-11-12T11:52:35+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
+    "facets": {
+      "thickness": [
+        "厚暖"
+      ],
+      "style": [
+        "休闲"
+      ],
+      "palette": [
+        "大地色"
+      ],
+      "silhouette": [
+        "宽松"
+      ],
+      "layering": [
+        "叠穿"
+      ],
+      "season": [
+        "秋冬"
+      ]
+    },
+    "note": "韩系男生 · 整套灵感",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 7,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/007.jpg"
+  },
+  {
+    "id": "ms-1569728187275564453",
     "order": 3,
-    "title": "藏蓝衬衫 × 米色长裤",
-    "image": "https://en.jogunshop.com/storage/jogunshopU0/www//product/2026/45/O/product.19318.179390729642623.jpeg",
-    "source": "https://en.jogunshop.com/Product/Detail/view/pid/61159/cid/1698",
-    "sourceName": "JOGUNSHOP",
+    "title": "深灰长大衣与同色西裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/10/f01f9692e93a42aa9ef768443cc9c4ab.jpg",
+    "source": "https://www.musinsa.com/snap/1569728187275564453",
+    "sourceName": "MUSINSA · 109hxx",
+    "sourceAuthor": "109hxx",
+    "sourceLikes": 9,
+    "sourcePublishedAt": "2026-11-10T23:59:24+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
+      "thickness": [
+        "厚暖"
+      ],
       "style": [
-        "简约",
         "通勤"
       ],
       "palette": [
-        "蓝色系",
-        "大地色"
+        "黑白灰"
+      ],
+      "silhouette": [
+        "宽松"
+      ],
+      "layering": [
+        "叠穿"
+      ],
+      "season": [
+        "秋冬"
+      ]
+    },
+    "note": "韩系男生 · 整套灵感",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 9,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/009.jpg"
+  },
+  {
+    "id": "ms-1570426714125068521",
+    "order": 4,
+    "title": "灰色短外套与黑色垂坠裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/12/11895f7c597a42ea89f3801446c9e91a.jpg",
+    "source": "https://www.musinsa.com/snap/1570426714125068521",
+    "sourceName": "MUSINSA · JxneHlxe",
+    "sourceAuthor": "JxneHlxe",
+    "sourceLikes": 0,
+    "sourcePublishedAt": "2026-11-12T22:15:06+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
+    "facets": {
+      "thickness": [
+        "适中"
+      ],
+      "style": [
+        "简约"
+      ],
+      "palette": [
+        "黑白灰"
+      ],
+      "silhouette": [
+        "宽松"
+      ],
+      "layering": [
+        "叠穿"
+      ],
+      "season": [
+        "春秋"
+      ]
+    },
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 10,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/010.jpg"
+  },
+  {
+    "id": "ms-1569928322058911397",
+    "order": 5,
+    "title": "深色短夹克与直筒牛仔裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/11/40c974d1ad6042da8527129e4fa818ce.jpg",
+    "source": "https://www.musinsa.com/snap/1569928322058911397",
+    "sourceName": "MUSINSA · work.log",
+    "sourceAuthor": "work.log",
+    "sourceLikes": 4,
+    "sourcePublishedAt": "2026-11-11T13:14:40+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
+    "facets": {
+      "thickness": [
+        "适中"
+      ],
+      "style": [
+        "简约"
+      ],
+      "palette": [
+        "蓝色系"
       ],
       "silhouette": [
         "利落"
@@ -121,96 +219,32 @@
       ],
       "season": [
         "春秋"
-      ],
-      "thickness": [
-        "适中"
       ]
     },
-    "previewIndex": 3,
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/static/003.jpg"
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 12,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/012.jpg"
   },
   {
-    "id": "look-9d213c35a4dd",
-    "title": "浅灰羽绒与深灰长裤",
-    "image": "https://cdn.imweb.me/upload/S20260806bd7dcd774a5f3/f236570a56553.jpg",
-    "source": "https://code-graphy.com/archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=175241201&t=board",
-    "sourceName": "CODEGRAPHY",
-    "selectionBasis": "品牌官方造型集",
-    "facets": {
-      "thickness": [
-        "厚暖"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "秋冬"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
+    "id": "ms-1570044200612919023",
+    "order": 6,
+    "title": "棕色西装与卡其打褶裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/11/b91299f51c7f4258a276bc8e986e9465.jpg",
+    "source": "https://www.musinsa.com/snap/1570044200612919023",
+    "sourceName": "MUSINSA · cc_oi_1",
+    "sourceAuthor": "cc_oi_1",
+    "sourceLikes": 3,
+    "sourcePublishedAt": "2026-11-11T20:55:07+09:00",
     "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/005.jpg",
-    "order": 4
-  },
-  {
-    "id": "look-2c75d78c0c9b",
-    "title": "深灰连帽外套与黑色长裤",
-    "image": "https://images.wear2.jp/coordinate/OwibVWAb/Jbva6VHs/1711085394_276.jpg",
-    "source": "https://wear.jp/nmtxu/23999820/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
       "thickness": [
         "适中"
       ],
       "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/405.jpg",
-    "order": 5
-  },
-  {
-    "id": "look-4a96f7824d12",
-    "title": "深棕大衣与米色长裤",
-    "image": "https://cdn.shopify.com/s/files/1/0962/1579/3977/files/Artboard1_81100fb5-f306-4dbc-acdd-713257cec276.jpg?v=1793066509&width=800",
-    "source": "https://covernat.jp/pages/26-winter-uni-lookbook",
-    "sourceName": "COVERNAT",
-    "selectionBasis": "品牌官方造型集",
-    "facets": {
-      "thickness": [
-        "厚暖"
-      ],
-      "style": [
-        "复古",
-        "通勤"
+        "复古"
       ],
       "palette": [
         "大地色"
@@ -222,89 +256,27 @@
         "叠穿"
       ],
       "season": [
-        "秋冬"
+        "春秋"
       ]
     },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/114.jpg",
-    "order": 6
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 14,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/014.jpg"
   },
   {
-    "id": "look-004",
+    "id": "ms-1569613265968953746",
     "order": 7,
-    "title": "橄榄绿与白色的轻通勤",
-    "image": "https://en.jogunshop.com/storage/jogunshopU0/www//product/2026/45/O/product.19318.179390729638679.jpeg",
-    "source": "https://en.jogunshop.com/Product/Detail/view/pid/61159/cid/1698",
-    "sourceName": "JOGUNSHOP",
-    "facets": {
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "大地色",
-        "浅色系"
-      ],
-      "silhouette": [
-        "利落"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ],
-      "thickness": [
-        "轻薄"
-      ]
-    },
-    "previewIndex": 4,
-    "tagMethod": "manual-visual-review",
+    "title": "黑色外套与宽腿长裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/10/19b0da3f24c14a9ca51c0be81d412e53.jpg",
+    "source": "https://www.musinsa.com/snap/1569613265968953746",
+    "sourceName": "MUSINSA · yj_mark",
+    "sourceAuthor": "yj_mark",
+    "sourceLikes": 6,
+    "sourcePublishedAt": "2026-11-10T16:22:45+09:00",
     "capturedDate": "2026-11-12",
-    "previewFile": "outputs/static/004.jpg"
-  },
-  {
-    "id": "look-c6351674348d",
-    "title": "深色长大衣与条纹围巾",
-    "image": "https://cdn.imweb.me/upload/S20260806bd7dcd774a5f3/1421b5f229ed0.jpg",
-    "source": "https://code-graphy.com/archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=175241201&t=board",
-    "sourceName": "CODEGRAPHY",
-    "selectionBasis": "品牌官方造型集",
-    "facets": {
-      "thickness": [
-        "厚暖"
-      ],
-      "style": [
-        "休闲",
-        "通勤"
-      ],
-      "palette": [
-        "黑白灰",
-        "大地色"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "秋冬"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/009.jpg",
-    "order": 8
-  },
-  {
-    "id": "look-c3850a05372e",
-    "title": "黑色运动上衣与工装裤",
-    "image": "https://images.wear2.jp/coordinate/vdi037Mr/x2BN5xUC/1717996775_276.jpg",
-    "source": "https://wear.jp/whitefeather1996/24273468/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
       "thickness": [
         "适中"
@@ -316,40 +288,45 @@
         "黑白灰"
       ],
       "silhouette": [
-        "利落"
+        "宽松"
       ],
       "layering": [
-        "简洁单层"
+        "叠穿"
       ],
       "season": [
         "春秋"
       ]
     },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/406.jpg",
-    "order": 9
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 15,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/015.jpg"
   },
   {
-    "id": "look-607fcdf13d1e",
-    "title": "橄榄绿衬衫与深色长裤",
-    "image": "https://cdn.shopify.com/s/files/1/0962/1579/3977/files/event-top-4.png?v=1788855543&width=800",
-    "source": "https://covernat.jp/pages/2026-fall-uni-lookbook",
-    "sourceName": "COVERNAT",
-    "selectionBasis": "品牌官方造型集",
+    "id": "ms-1570335308689795799",
+    "order": 8,
+    "title": "橄榄针织与棕色休闲裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/12/b6e37d550cd34ac2ba3adb73f74ef143.jpg",
+    "source": "https://www.musinsa.com/snap/1570335308689795799",
+    "sourceName": "MUSINSA · t_huny",
+    "sourceAuthor": "t_huny",
+    "sourceLikes": 2,
+    "sourcePublishedAt": "2026-11-12T16:11:53+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
       "thickness": [
         "适中"
       ],
       "style": [
-        "简约",
-        "通勤"
+        "复古"
       ],
       "palette": [
         "大地色"
       ],
       "silhouette": [
-        "利落"
+        "宽松"
       ],
       "layering": [
         "简洁单层"
@@ -358,25 +335,109 @@
         "春秋"
       ]
     },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/120.jpg",
-    "order": 10
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 16,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/016.jpg"
   },
   {
-    "id": "look-005",
+    "id": "ms-1570237112955609172",
+    "order": 9,
+    "title": "黑色绒感外套与浅灰卫裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/12/3098237164824e5f957e5f3f0805c7fe.jpg",
+    "source": "https://www.musinsa.com/snap/1570237112955609172",
+    "sourceName": "MUSINSA · kaey0627",
+    "sourceAuthor": "kaey0627",
+    "sourceLikes": 0,
+    "sourcePublishedAt": "2026-11-12T09:41:41+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
+    "facets": {
+      "thickness": [
+        "厚暖"
+      ],
+      "style": [
+        "休闲"
+      ],
+      "palette": [
+        "黑白灰"
+      ],
+      "silhouette": [
+        "宽松"
+      ],
+      "layering": [
+        "叠穿"
+      ],
+      "season": [
+        "秋冬"
+      ]
+    },
+    "note": "韩系男生 · 整套灵感",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 39,
+    "reviewedMediaIndex": 2,
+    "previewFile": "outputs/v3/previews/alt-039-2.jpg"
+  },
+  {
+    "id": "ms-1569853018072472987",
+    "order": 10,
+    "title": "焦糖格纹针织与黑色牛仔",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/11/24866c89978a44608678776476ea74e6.jpg",
+    "source": "https://www.musinsa.com/snap/1569853018072472987",
+    "sourceName": "MUSINSA · 2eunu_",
+    "sourceAuthor": "2eunu_",
+    "sourceLikes": 10,
+    "sourcePublishedAt": "2026-11-11T08:15:26+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
+    "facets": {
+      "thickness": [
+        "适中"
+      ],
+      "style": [
+        "复古"
+      ],
+      "palette": [
+        "大地色"
+      ],
+      "silhouette": [
+        "宽松"
+      ],
+      "layering": [
+        "简洁单层"
+      ],
+      "season": [
+        "春秋"
+      ]
+    },
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 18,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/018.jpg"
+  },
+  {
+    "id": "ms-1570315927688629298",
     "order": 11,
-    "title": "深色牛仔衬衫，配白裤",
-    "image": "https://en.jogunshop.com/storage/jogunshopU0/www//product/2026/43/O/product.19273.179278415573808.jpeg",
-    "source": "https://en.jogunshop.com/Product/Detail/view/pid/61024/cid/1698",
-    "sourceName": "JOGUNSHOP",
+    "title": "深棕短夹克与黑色宽裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/12/4c931bac286045c2b3166b9abf3f0cf0.jpg",
+    "source": "https://www.musinsa.com/snap/1570315927688629298",
+    "sourceName": "MUSINSA · 라프",
+    "sourceAuthor": "라프",
+    "sourceLikes": 6,
+    "sourcePublishedAt": "2026-11-12T14:54:52+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
+      "thickness": [
+        "适中"
+      ],
       "style": [
-        "休闲",
         "简约"
       ],
       "palette": [
-        "黑白灰"
+        "大地色"
       ],
       "silhouette": [
         "宽松"
@@ -386,33 +447,35 @@
       ],
       "season": [
         "春秋"
-      ],
-      "thickness": [
-        "适中"
       ]
     },
-    "previewIndex": 5,
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/static/005.jpg"
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 19,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/019.jpg"
   },
   {
-    "id": "look-d62a14a8359c",
-    "title": "灰绿短夹克与黑色阔腿裤",
-    "image": "https://cdn.imweb.me/upload/S20260806bd7dcd774a5f3/321a7b4ea0ae8.jpg",
-    "source": "https://code-graphy.com/archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=175241201&t=board",
-    "sourceName": "CODEGRAPHY",
-    "selectionBasis": "品牌官方造型集",
+    "id": "ms-1570342529708280623",
+    "order": 12,
+    "title": "棕色针织与深色直筒裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/12/4127f76e7fa1426c9d8fd642574ad2fc.jpg",
+    "source": "https://www.musinsa.com/snap/1570342529708280623",
+    "sourceName": "MUSINSA · 세일러스타",
+    "sourceAuthor": "세일러스타",
+    "sourceLikes": 7,
+    "sourcePublishedAt": "2026-11-12T16:40:35+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
       "thickness": [
-        "厚暖"
+        "适中"
       ],
       "style": [
-        "简约",
-        "休闲"
+        "复古"
       ],
       "palette": [
-        "黑白灰"
+        "大地色"
       ],
       "silhouette": [
         "宽松"
@@ -421,28 +484,33 @@
         "叠穿"
       ],
       "season": [
-        "秋冬"
+        "春秋"
       ]
     },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/010.jpg",
-    "order": 12
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 20,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/020.jpg"
   },
   {
-    "id": "look-e84fed2f8783",
-    "title": "花纹短袖与浅绿短裤",
-    "image": "https://images.wear2.jp/coordinate/6ginZx0G/gsSIdmmQ/1788006916_276.jpg",
-    "source": "https://wear.jp/matu0369/27279060/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
+    "id": "ms-1569862529314906343",
+    "order": 13,
+    "title": "酒红针织开衫与奶油长裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/11/ea8db921e4fd49538bee535dd98544a3.jpg",
+    "source": "https://www.musinsa.com/snap/1569862529314906343",
+    "sourceName": "MUSINSA · J0ngwo0",
+    "sourceAuthor": "J0ngwo0",
+    "sourceLikes": 5,
+    "sourcePublishedAt": "2026-11-11T08:53:14+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
       "thickness": [
-        "轻薄"
+        "适中"
       ],
       "style": [
-        "休闲",
-        "复古"
+        "休闲"
       ],
       "palette": [
         "亮色点缀"
@@ -451,34 +519,39 @@
         "宽松"
       ],
       "layering": [
-        "简洁单层"
+        "叠穿"
       ],
       "season": [
-        "夏季"
+        "春秋"
       ]
     },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/407.jpg",
-    "order": 13
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 21,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/021.jpg"
   },
   {
-    "id": "look-8fcc811e1cc4",
-    "title": "黑色皮夹克与宽松长裤",
-    "image": "https://cdn.shopify.com/s/files/1/0962/1579/3977/files/event-06-2.png?v=1788856722&width=800",
-    "source": "https://covernat.jp/pages/2026-fall-uni-lookbook",
-    "sourceName": "COVERNAT",
-    "selectionBasis": "品牌官方造型集",
+    "id": "ms-1570077239188440638",
+    "order": 14,
+    "title": "黑色工装夹克与卡其宽裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/11/3cefff6c20964d819461bd473d101984.jpg",
+    "source": "https://www.musinsa.com/snap/1570077239188440638",
+    "sourceName": "MUSINSA · 에고닉스",
+    "sourceAuthor": "에고닉스",
+    "sourceLikes": 3,
+    "sourcePublishedAt": "2026-11-11T23:06:24+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
       "thickness": [
         "适中"
       ],
       "style": [
-        "简约",
-        "休闲"
+        "复古"
       ],
       "palette": [
-        "黑白灰"
+        "大地色"
       ],
       "silhouette": [
         "宽松"
@@ -490,26 +563,71 @@
         "春秋"
       ]
     },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/126.jpg",
-    "order": 14
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 22,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/022.jpg"
   },
   {
-    "id": "look-009",
+    "id": "ms-1570328541798862402",
     "order": 15,
-    "title": "红格纹叠穿浅色牛仔",
-    "image": "https://en.jogunshop.com/storage/jogunshopU0/www//product/2026/43/O/product.19270.179269776653030.jpeg",
-    "source": "https://en.jogunshop.com/Product/Detail/view/pid/61015/cid/1698",
-    "sourceName": "JOGUNSHOP",
+    "title": "黑色皮夹克与酒红内搭",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/12/e171ccd8975845e896aa35cc935a053e.jpg",
+    "source": "https://www.musinsa.com/snap/1570328541798862402",
+    "sourceName": "MUSINSA · 170_65_",
+    "sourceAuthor": "170_65_",
+    "sourceLikes": 2,
+    "sourcePublishedAt": "2026-11-12T15:45:00+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
+      "thickness": [
+        "适中"
+      ],
       "style": [
-        "休闲",
         "复古"
       ],
       "palette": [
-        "蓝色系",
         "亮色点缀"
+      ],
+      "silhouette": [
+        "利落"
+      ],
+      "layering": [
+        "叠穿"
+      ],
+      "season": [
+        "春秋"
+      ]
+    },
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 23,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/023.jpg"
+  },
+  {
+    "id": "ms-1570211579485700540",
+    "order": 16,
+    "title": "燕麦色拉链针织与深色宽裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/12/e80d8d443c794c5aa41ec46d144e4d5c.jpg",
+    "source": "https://www.musinsa.com/snap/1570211579485700540",
+    "sourceName": "MUSINSA · 세일러스타",
+    "sourceAuthor": "세일러스타",
+    "sourceLikes": 9,
+    "sourcePublishedAt": "2026-11-12T08:00:14+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
+    "facets": {
+      "thickness": [
+        "适中"
+      ],
+      "style": [
+        "简约"
+      ],
+      "palette": [
+        "浅色系"
       ],
       "silhouette": [
         "宽松"
@@ -519,36 +637,38 @@
       ],
       "season": [
         "春秋"
-      ],
-      "thickness": [
-        "适中"
       ]
     },
-    "previewIndex": 9,
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/static/009.jpg"
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 24,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/024.jpg"
   },
   {
-    "id": "look-ada285d56bdc",
-    "title": "黑色羽绒与牛仔叠穿",
-    "image": "https://cdn.imweb.me/upload/S20260806bd7dcd774a5f3/624ef9c9b9caf.jpg",
-    "source": "https://code-graphy.com/archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=175241201&t=board",
-    "sourceName": "CODEGRAPHY",
-    "selectionBasis": "品牌官方造型集",
+    "id": "ms-1570360589599114033",
+    "order": 17,
+    "title": "深色短棉服与灰色长裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/12/d03a7cc670124bf8b6c9c544d93916d3.jpg",
+    "source": "https://www.musinsa.com/snap/1570360589599114033",
+    "sourceName": "MUSINSA · 심플한코디jsk",
+    "sourceAuthor": "심플한코디jsk",
+    "sourceLikes": 2,
+    "sourcePublishedAt": "2026-11-12T17:52:20+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
       "thickness": [
         "厚暖"
       ],
       "style": [
-        "休闲"
+        "简约"
       ],
       "palette": [
-        "黑白灰",
-        "蓝色系"
+        "黑白灰"
       ],
       "silhouette": [
-        "宽松"
+        "利落"
       ],
       "layering": [
         "叠穿"
@@ -557,18 +677,24 @@
         "秋冬"
       ]
     },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/013.jpg",
-    "order": 16
+    "note": "韩系男生 · 整套灵感",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 58,
+    "reviewedMediaIndex": 3,
+    "previewFile": "outputs/v3/previews/alt-058-3.jpg"
   },
   {
-    "id": "look-b5bfb4b7d2f7",
-    "title": "全黑长袖与修身长裤",
-    "image": "https://cdn.wimg.jp/coordinate/fp3emn/20200928060013968/20200928060013968_276.jpg",
-    "source": "https://wear.jp/lapisry/17744127/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
+    "id": "ms-1570274638293609762",
+    "order": 18,
+    "title": "黑色皮夹克与炭灰长裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/12/6549a24fd3fc4085a3e1b03087bccbdb.jpg",
+    "source": "https://www.musinsa.com/snap/1570274638293609762",
+    "sourceName": "MUSINSA · 이용칠",
+    "sourceAuthor": "이용칠",
+    "sourceLikes": 1,
+    "sourcePublishedAt": "2026-11-12T12:10:48+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
       "thickness": [
         "适中"
@@ -583,61 +709,74 @@
         "利落"
       ],
       "layering": [
-        "简洁单层"
+        "叠穿"
       ],
       "season": [
         "春秋"
       ]
     },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/409.jpg",
-    "order": 17
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 26,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/026.jpg"
   },
   {
-    "id": "look-0039e6422fb2",
-    "title": "米白棒球衫与深色短裤",
-    "image": "https://cdn.shopify.com/s/files/1/0962/1579/3977/files/0011_08_2299.jpg?v=1777372019&width=800",
-    "source": "https://covernat.jp/pages/2026-summer-with-soobin-lookbook",
-    "sourceName": "COVERNAT",
-    "selectionBasis": "品牌官方造型集",
-    "facets": {
-      "thickness": [
-        "轻薄"
-      ],
-      "style": [
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "浅色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "夏季"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/137.jpg",
-    "order": 18
-  },
-  {
-    "id": "look-012",
+    "id": "ms-1570310725363113114",
     "order": 19,
-    "title": "灰格纹与棕色长裤",
-    "image": "https://en.jogunshop.com/storage/jogunshopU0/www//product/2026/43/O/product.19270.179269776625223.jpeg",
-    "source": "https://en.jogunshop.com/Product/Detail/view/pid/61015/cid/1698",
-    "sourceName": "JOGUNSHOP",
+    "title": "灰色夹克与浅蓝宽牛仔",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/12/84d709f6b3934c3480b63554a814dad5.jpg",
+    "source": "https://www.musinsa.com/snap/1570310725363113114",
+    "sourceName": "MUSINSA · 아기도야즤",
+    "sourceAuthor": "아기도야즤",
+    "sourceLikes": 5,
+    "sourcePublishedAt": "2026-11-12T14:34:12+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
+      "thickness": [
+        "适中"
+      ],
       "style": [
-        "复古",
         "休闲"
+      ],
+      "palette": [
+        "蓝色系"
+      ],
+      "silhouette": [
+        "宽松"
+      ],
+      "layering": [
+        "叠穿"
+      ],
+      "season": [
+        "春秋"
+      ]
+    },
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 30,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/030.jpg"
+  },
+  {
+    "id": "ms-1569305493589611465",
+    "order": 20,
+    "title": "深棕翻领针织与卡其宽裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/09/62d6f5d799ae45b3926d6bdaa19908e9.jpg",
+    "source": "https://www.musinsa.com/snap/1569305493589611465",
+    "sourceName": "MUSINSA · cc_oi_1",
+    "sourceAuthor": "cc_oi_1",
+    "sourceLikes": 27,
+    "sourcePublishedAt": "2026-11-09T19:59:46+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
+    "facets": {
+      "thickness": [
+        "适中"
+      ],
+      "style": [
+        "复古"
       ],
       "palette": [
         "大地色"
@@ -650,67 +789,35 @@
       ],
       "season": [
         "春秋"
-      ],
-      "thickness": [
-        "适中"
       ]
     },
-    "previewIndex": 12,
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/static/012.jpg"
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 28,
+    "reviewedMediaIndex": 1,
+    "previewFile": "outputs/v3/previews/alt-028-1.jpg"
   },
   {
-    "id": "look-bc6ea9977ecd",
-    "title": "灰色羽绒与浅色长裤",
-    "image": "https://cdn.imweb.me/upload/S20260806bd7dcd774a5f3/64e51fbe42e76.jpg",
-    "source": "https://code-graphy.com/archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=175241201&t=board",
-    "sourceName": "CODEGRAPHY",
-    "selectionBasis": "品牌官方造型集",
-    "facets": {
-      "thickness": [
-        "厚暖"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "浅色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "秋冬"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
+    "id": "ms-1570440751288937766",
+    "order": 21,
+    "title": "红色翻领针织与灰色西裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/12/147001461f0c4552b80e537e6672105d.jpg",
+    "source": "https://www.musinsa.com/snap/1570440751288937766",
+    "sourceName": "MUSINSA · dbs.ycaa",
+    "sourceAuthor": "dbs.ycaa",
+    "sourceLikes": 1,
+    "sourcePublishedAt": "2026-11-12T23:10:52+09:00",
     "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/014.jpg",
-    "order": 20
-  },
-  {
-    "id": "look-daca4a69ccb1",
-    "title": "深色短夹克与衬衫叠穿",
-    "image": "https://images.wear2.jp/coordinate/zaib560a/bUqZXxeC/1792920473_276.jpg",
-    "source": "https://wear.jp/syo20040516/27514780/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
       "thickness": [
         "适中"
       ],
       "style": [
-        "简约",
-        "通勤"
+        "复古"
       ],
       "palette": [
-        "黑白灰"
+        "亮色点缀"
       ],
       "silhouette": [
         "宽松"
@@ -722,95 +829,147 @@
         "春秋"
       ]
     },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/410.jpg",
-    "order": 21
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 32,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/032.jpg"
   },
   {
-    "id": "look-99a2ca4d76eb",
-    "title": "细条纹与浅蓝牛仔短裤",
-    "image": "https://cdn.shopify.com/s/files/1/0962/1579/3977/files/0009_09_2502.jpg?v=1777372116&width=800",
-    "source": "https://covernat.jp/pages/2026-summer-with-soobin-lookbook",
-    "sourceName": "COVERNAT",
-    "selectionBasis": "品牌官方造型集",
+    "id": "ms-1570366059575589114",
+    "order": 22,
+    "title": "深色条纹针织与灰色长裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/12/2554b00c00be4f848a7ab8ff9d82c864.jpg",
+    "source": "https://www.musinsa.com/snap/1570366059575589114",
+    "sourceName": "MUSINSA · 림숑빈",
+    "sourceAuthor": "림숑빈",
+    "sourceLikes": 1,
+    "sourcePublishedAt": "2026-11-12T18:14:05+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
       "thickness": [
-        "轻薄"
+        "适中"
       ],
       "style": [
-        "简约",
-        "休闲"
+        "简约"
       ],
       "palette": [
-        "蓝色系",
-        "浅色系"
+        "黑白灰"
       ],
       "silhouette": [
-        "宽松"
+        "利落"
       ],
       "layering": [
         "简洁单层"
       ],
       "season": [
-        "夏季"
+        "春秋"
       ]
     },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/139.jpg",
-    "order": 22
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 33,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/033.jpg"
   },
   {
-    "id": "look-013",
+    "id": "ms-1570363220440318629",
     "order": 23,
-    "title": "深色衬衫与直筒牛仔",
-    "image": "https://en.jogunshop.com/storage/jogunshopU0/www//product/2026/40/O/product.19245.179088329194704.jpeg",
-    "source": "https://en.jogunshop.com/Product/Detail/view/pid/60940/cid/1698",
-    "sourceName": "JOGUNSHOP",
+    "title": "橄榄夹克与浅蓝牛仔裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/12/82a3efd7c8da46c0a9691f1ab8fb08a6.jpg",
+    "source": "https://www.musinsa.com/snap/1570363220440318629",
+    "sourceName": "MUSINSA · y__b_11",
+    "sourceAuthor": "y__b_11",
+    "sourceLikes": 4,
+    "sourcePublishedAt": "2026-11-12T18:02:48+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "蓝色系"
-      ],
-      "silhouette": [
-        "利落"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ],
       "thickness": [
         "适中"
-      ]
-    },
-    "previewIndex": 13,
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/static/013.jpg"
-  },
-  {
-    "id": "look-7362a7a6471c",
-    "title": "灰色羽绒与粉色长裤",
-    "image": "https://cdn.imweb.me/upload/S20260806bd7dcd774a5f3/7fd58e8f8848f.jpg",
-    "source": "https://code-graphy.com/archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=175241201&t=board",
-    "sourceName": "CODEGRAPHY",
-    "selectionBasis": "品牌官方造型集",
-    "facets": {
-      "thickness": [
-        "厚暖"
       ],
       "style": [
         "休闲"
       ],
       "palette": [
-        "黑白灰",
-        "亮色点缀"
+        "大地色"
+      ],
+      "silhouette": [
+        "宽松"
+      ],
+      "layering": [
+        "叠穿"
+      ],
+      "season": [
+        "春秋"
+      ]
+    },
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 35,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/035.jpg"
+  },
+  {
+    "id": "ms-1569379668116008470",
+    "order": 24,
+    "title": "浅色图案外套与黑色长裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/10/eb33fe670fed4c348ac1d94e5ac27b69.jpg",
+    "source": "https://www.musinsa.com/snap/1569379668116008470",
+    "sourceName": "MUSINSA · 히수꼿",
+    "sourceAuthor": "히수꼿",
+    "sourceLikes": 8,
+    "sourcePublishedAt": "2026-11-10T00:54:31+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
+    "facets": {
+      "thickness": [
+        "适中"
+      ],
+      "style": [
+        "休闲"
+      ],
+      "palette": [
+        "浅色系"
+      ],
+      "silhouette": [
+        "宽松"
+      ],
+      "layering": [
+        "叠穿"
+      ],
+      "season": [
+        "春秋"
+      ]
+    },
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 36,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/036.jpg"
+  },
+  {
+    "id": "ms-1569941114702890271",
+    "order": 25,
+    "title": "浅灰短棉服与米色宽裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/11/1cd05220c21645d1879cf0d7fc5fbff4.jpg",
+    "source": "https://www.musinsa.com/snap/1569941114702890271",
+    "sourceName": "MUSINSA · 오브재인",
+    "sourceAuthor": "오브재인",
+    "sourceLikes": 1,
+    "sourcePublishedAt": "2026-11-11T14:05:30+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
+    "facets": {
+      "thickness": [
+        "厚暖"
+      ],
+      "style": [
+        "简约"
+      ],
+      "palette": [
+        "浅色系"
       ],
       "silhouette": [
         "宽松"
@@ -822,54 +981,27 @@
         "秋冬"
       ]
     },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/016.jpg",
-    "order": 24
+    "note": "韩系男生 · 整套灵感",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 70,
+    "reviewedMediaIndex": 2,
+    "previewFile": "outputs/v3/previews/alt-070-2.jpg"
   },
   {
-    "id": "look-281031ac5c8a",
-    "title": "灰色宽松T恤与深色长裤",
-    "image": "https://images.wear2.jp/coordinate/lei0a46d/NlagF9yd/1745574793_276.jpg",
-    "source": "https://wear.jp/reeboker99/25287564/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "轻薄"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "夏季"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
+    "id": "ms-1569923435207143552",
+    "order": 26,
+    "title": "黑色短棉服与宽腿牛仔",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/11/a6775e513b764336a1f430d6c63aaa7c.jpg",
+    "source": "https://www.musinsa.com/snap/1569923435207143552",
+    "sourceName": "MUSINSA · klnny",
+    "sourceAuthor": "klnny",
+    "sourceLikes": 2,
+    "sourcePublishedAt": "2026-11-11T12:55:15+09:00",
     "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/411.jpg",
-    "order": 25
-  },
-  {
-    "id": "look-4b02ac39248f",
-    "title": "浅绿短袖衬衫与蓝色牛仔",
-    "image": "https://cdn.shopify.com/s/files/1/0962/1579/3977/files/0005_11_2952.jpg?v=1777372170&width=800",
-    "source": "https://covernat.jp/pages/2026-summer-with-soobin-lookbook",
-    "sourceName": "COVERNAT",
-    "selectionBasis": "品牌官方造型集",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
       "thickness": [
-        "轻薄"
+        "厚暖"
       ],
       "style": [
         "休闲"
@@ -884,68 +1016,39 @@
         "叠穿"
       ],
       "season": [
-        "夏季"
+        "秋冬"
       ]
     },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/142.jpg",
-    "order": 26
+    "note": "韩系男生 · 整套灵感",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 40,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/040.jpg"
   },
   {
-    "id": "look-017",
+    "id": "ms-1570052677725423190",
     "order": 27,
-    "title": "黑白格纹，红鞋点睛",
-    "image": "https://en.jogunshop.com/storage/jogunshopU0/www//product/2026/40/O/product.19241.179067061681026.jpeg",
-    "source": "https://en.jogunshop.com/Product/Detail/view/pid/60928/cid/1698",
-    "sourceName": "JOGUNSHOP",
-    "facets": {
-      "style": [
-        "复古",
-        "休闲"
-      ],
-      "palette": [
-        "蓝色系",
-        "亮色点缀"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ],
-      "thickness": [
-        "适中"
-      ]
-    },
-    "previewIndex": 17,
-    "tagMethod": "manual-visual-review",
+    "title": "深棕长大衣与棕色长裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/11/bc1ae91398154af7aa418fc93e8cda3b.jpg",
+    "source": "https://www.musinsa.com/snap/1570052677725423190",
+    "sourceName": "MUSINSA · 싹둑",
+    "sourceAuthor": "싹둑",
+    "sourceLikes": 1,
+    "sourcePublishedAt": "2026-11-11T21:28:49+09:00",
     "capturedDate": "2026-11-12",
-    "previewFile": "outputs/static/017.jpg"
-  },
-  {
-    "id": "look-b91a4039c028",
-    "title": "银灰短羽绒与深色牛仔",
-    "image": "https://cdn.imweb.me/upload/S20260806bd7dcd774a5f3/77e13fb2a7c67.jpg",
-    "source": "https://code-graphy.com/archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=175241201&t=board",
-    "sourceName": "CODEGRAPHY",
-    "selectionBasis": "品牌官方造型集",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
       "thickness": [
         "厚暖"
       ],
       "style": [
-        "简约",
-        "休闲"
+        "通勤"
       ],
       "palette": [
-        "黑白灰"
+        "大地色"
       ],
       "silhouette": [
-        "宽松"
+        "利落"
       ],
       "layering": [
         "叠穿"
@@ -954,87 +1057,143 @@
         "秋冬"
       ]
     },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/017.jpg",
-    "order": 28
+    "note": "韩系男生 · 整套灵感",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 41,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/041.jpg"
   },
   {
-    "id": "look-177469f5dfed",
-    "title": "卡其上衣与同色短裤",
-    "image": "https://images.wear2.jp/coordinate/7biBZrne/BSMef0zB/1791858984_276.jpg",
-    "source": "https://wear.jp/sken624/27461426/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "轻薄"
-      ],
-      "style": [
-        "休闲"
-      ],
-      "palette": [
-        "大地色"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "夏季"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
+    "id": "ms-1570395498386229148",
+    "order": 28,
+    "title": "全黑短夹克与直筒长裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/12/6a81feb2ca754157bdeeb6387cd6a3fb.jpg",
+    "source": "https://www.musinsa.com/snap/1570395498386229148",
+    "sourceName": "MUSINSA · sh_daily",
+    "sourceAuthor": "sh_daily",
+    "sourceLikes": 1,
+    "sourcePublishedAt": "2026-11-12T20:11:03+09:00",
     "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/412.jpg",
-    "order": 29
-  },
-  {
-    "id": "look-5d19a2cb58ac",
-    "title": "藏蓝短袖与白色短裤",
-    "image": "https://cdn.shopify.com/s/files/1/0962/1579/3977/files/0006_10_2808.jpg?v=1777372325&width=800",
-    "source": "https://covernat.jp/pages/2026-summer-with-soobin-lookbook",
-    "sourceName": "COVERNAT",
-    "selectionBasis": "品牌官方造型集",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
       "thickness": [
-        "轻薄"
+        "适中"
       ],
       "style": [
-        "简约",
-        "休闲"
+        "简约"
       ],
       "palette": [
-        "蓝色系",
-        "浅色系"
+        "黑白灰"
       ],
       "silhouette": [
         "利落"
       ],
       "layering": [
-        "简洁单层"
+        "叠穿"
       ],
       "season": [
-        "夏季"
+        "春秋"
       ]
     },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/146.jpg",
-    "order": 30
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 42,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/042.jpg"
   },
   {
-    "id": "look-019",
+    "id": "ms-1570274581293450593",
+    "order": 29,
+    "title": "驼色短外套与浅灰长裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/12/6e8b2c9101c04aba8a4529958670181f.jpg",
+    "source": "https://www.musinsa.com/snap/1570274581293450593",
+    "sourceName": "MUSINSA · 코향",
+    "sourceAuthor": "코향",
+    "sourceLikes": 1,
+    "sourcePublishedAt": "2026-11-12T12:10:34+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
+    "facets": {
+      "thickness": [
+        "适中"
+      ],
+      "style": [
+        "通勤"
+      ],
+      "palette": [
+        "大地色"
+      ],
+      "silhouette": [
+        "利落"
+      ],
+      "layering": [
+        "叠穿"
+      ],
+      "season": [
+        "春秋"
+      ]
+    },
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 43,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/043.jpg"
+  },
+  {
+    "id": "ms-1570207446625814814",
+    "order": 30,
+    "title": "深色绒面夹克与橄榄长裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/12/4b13e721da08489bac18f27ecf30aecd.jpg",
+    "source": "https://www.musinsa.com/snap/1570207446625814814",
+    "sourceName": "MUSINSA · 가이던스1",
+    "sourceAuthor": "가이던스1",
+    "sourceLikes": 5,
+    "sourcePublishedAt": "2026-11-12T07:43:48+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
+    "facets": {
+      "thickness": [
+        "厚暖"
+      ],
+      "style": [
+        "复古"
+      ],
+      "palette": [
+        "大地色"
+      ],
+      "silhouette": [
+        "利落"
+      ],
+      "layering": [
+        "叠穿"
+      ],
+      "season": [
+        "秋冬"
+      ]
+    },
+    "note": "韩系男生 · 整套灵感",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 44,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/044.jpg"
+  },
+  {
+    "id": "ms-1570350227441492887",
     "order": 31,
-    "title": "棕格纹与黑色长裤",
-    "image": "https://en.jogunshop.com/storage/jogunshopU0/www//product/2026/40/O/product.19241.179067061779865.jpeg",
-    "source": "https://en.jogunshop.com/Product/Detail/view/pid/60928/cid/1698",
-    "sourceName": "JOGUNSHOP",
+    "title": "黑色连帽卫衣与棕色宽裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/12/c8b63e2c023843938c5d3c7a560431f5.jpg",
+    "source": "https://www.musinsa.com/snap/1570350227441492887",
+    "sourceName": "MUSINSA · 가이던스1",
+    "sourceAuthor": "가이던스1",
+    "sourceLikes": 3,
+    "sourcePublishedAt": "2026-11-12T17:11:10+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
+      "thickness": [
+        "适中"
+      ],
       "style": [
-        "复古",
         "休闲"
       ],
       "palette": [
@@ -1044,38 +1203,115 @@
         "宽松"
       ],
       "layering": [
+        "简洁单层"
+      ],
+      "season": [
+        "春秋"
+      ]
+    },
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 45,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/045.jpg"
+  },
+  {
+    "id": "ms-1570326980048766825",
+    "order": 32,
+    "title": "皮夹克与浅蓝牛仔、黑靴",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/12/9b40c2b5a7ef47528dbf209179b3ed4d.jpg",
+    "source": "https://www.musinsa.com/snap/1570326980048766825",
+    "sourceName": "MUSINSA · 현달쓰",
+    "sourceAuthor": "현달쓰",
+    "sourceLikes": 3,
+    "sourcePublishedAt": "2026-11-12T15:38:47+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
+    "facets": {
+      "thickness": [
+        "适中"
+      ],
+      "style": [
+        "复古"
+      ],
+      "palette": [
+        "蓝色系"
+      ],
+      "silhouette": [
+        "宽松"
+      ],
+      "layering": [
         "叠穿"
       ],
       "season": [
         "春秋"
-      ],
-      "thickness": [
-        "适中"
       ]
     },
-    "previewIndex": 19,
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/static/019.jpg"
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 47,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/047.jpg"
   },
   {
-    "id": "look-02522ee6b146",
-    "title": "棕色短羽绒与酒红长裤",
-    "image": "https://cdn.imweb.me/upload/S20260806bd7dcd774a5f3/74e63af686680.jpg",
-    "source": "https://code-graphy.com/archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=175241201&t=board",
-    "sourceName": "CODEGRAPHY",
-    "selectionBasis": "品牌官方造型集",
+    "id": "ms-1570197535906065295",
+    "order": 33,
+    "title": "深蓝运动上衣与同色长裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/12/31b9d1e8e9394ff7bf23cf35af51e9fd.jpg",
+    "source": "https://www.musinsa.com/snap/1570197535906065295",
+    "sourceName": "MUSINSA · TaeGuns",
+    "sourceAuthor": "TaeGuns",
+    "sourceLikes": 4,
+    "sourcePublishedAt": "2026-11-12T07:04:25+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
+    "facets": {
+      "thickness": [
+        "适中"
+      ],
+      "style": [
+        "休闲"
+      ],
+      "palette": [
+        "蓝色系"
+      ],
+      "silhouette": [
+        "宽松"
+      ],
+      "layering": [
+        "简洁单层"
+      ],
+      "season": [
+        "春秋"
+      ]
+    },
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 48,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/048.jpg"
+  },
+  {
+    "id": "ms-1570267344654844829",
+    "order": 34,
+    "title": "灰褐短棉服与炭色长裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/12/879f749732d244de8d053236d1cf2214.jpg",
+    "source": "https://www.musinsa.com/snap/1570267344654844829",
+    "sourceName": "MUSINSA · 리오동생",
+    "sourceAuthor": "리오동생",
+    "sourceLikes": 3,
+    "sourcePublishedAt": "2026-11-12T11:41:49+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
       "thickness": [
         "厚暖"
       ],
       "style": [
-        "休闲",
-        "复古"
+        "休闲"
       ],
       "palette": [
-        "大地色",
-        "亮色点缀"
+        "大地色"
       ],
       "silhouette": [
         "宽松"
@@ -1087,128 +1323,70 @@
         "秋冬"
       ]
     },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/019.jpg",
-    "order": 32
+    "note": "韩系男生 · 整套灵感",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 51,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/051.jpg"
   },
   {
-    "id": "look-f8d9dab9e79a",
-    "title": "白色夹克与深蓝牛仔",
-    "image": "https://images.wear2.jp/coordinate/QWiodYqM/5Xbr5haj/1790909678_276.jpg",
-    "source": "https://wear.jp/yusuke4507/27416621/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "蓝色系",
-        "浅色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/413.jpg",
-    "order": 33
-  },
-  {
-    "id": "look-642643852773",
-    "title": "蓝色短袖衬衫与卡其短裤",
-    "image": "https://cdn.shopify.com/s/files/1/0962/1579/3977/files/0003_12_3224.jpg?v=1777372399&width=800",
-    "source": "https://covernat.jp/pages/2026-summer-with-soobin-lookbook",
-    "sourceName": "COVERNAT",
-    "selectionBasis": "品牌官方造型集",
-    "facets": {
-      "thickness": [
-        "轻薄"
-      ],
-      "style": [
-        "休闲"
-      ],
-      "palette": [
-        "蓝色系",
-        "大地色"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "夏季"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/147.jpg",
-    "order": 34
-  },
-  {
-    "id": "look-026",
+    "id": "ms-1570093714526195021",
     "order": 35,
-    "title": "浅蓝衬衫与黑色短裤",
-    "image": "https://en.jogunshop.com/storage/jogunshopU0/www//product/2026/35/O/product.19208.178785931717843.jpeg",
-    "source": "https://en.jogunshop.com/Product/Detail/view/pid/60829/cid/1698",
-    "sourceName": "JOGUNSHOP",
+    "title": "深棕针织与蓝色宽牛仔",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/12/5f0ac2a490f94b119e8890b2e6b5759e.jpg",
+    "source": "https://www.musinsa.com/snap/1570093714526195021",
+    "sourceName": "MUSINSA · 규형쓰",
+    "sourceAuthor": "규형쓰",
+    "sourceLikes": 2,
+    "sourcePublishedAt": "2026-11-12T00:11:52+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
+      "thickness": [
+        "适中"
+      ],
       "style": [
-        "简约",
         "休闲"
       ],
       "palette": [
-        "蓝色系",
-        "浅色系"
+        "蓝色系"
       ],
       "silhouette": [
         "宽松"
       ],
       "layering": [
-        "叠穿"
+        "简洁单层"
       ],
       "season": [
-        "夏季"
-      ],
-      "thickness": [
-        "轻薄"
+        "春秋"
       ]
     },
-    "previewIndex": 26,
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/static/026.jpg"
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 53,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/053.jpg"
   },
   {
-    "id": "look-3418049b154e",
-    "title": "黑色羽绒与卡其工装裤",
-    "image": "https://cdn.imweb.me/upload/S20260806bd7dcd774a5f3/ff0448e2e6b0d.jpg",
-    "source": "https://code-graphy.com/archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=175241201&t=board",
-    "sourceName": "CODEGRAPHY",
-    "selectionBasis": "品牌官方造型集",
+    "id": "ms-1569534115521623139",
+    "order": 36,
+    "title": "棕色牛角扣大衣与灰褐宽裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/10/d388c18adeb54d0db33535743f9310f9.jpg",
+    "source": "https://www.musinsa.com/snap/1569534115521623139",
+    "sourceName": "MUSINSA · 대마왕낄낄",
+    "sourceAuthor": "대마왕낄낄",
+    "sourceLikes": 3,
+    "sourcePublishedAt": "2026-11-10T11:08:14+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
       "thickness": [
         "厚暖"
       ],
       "style": [
-        "休闲"
+        "复古"
       ],
       "palette": [
-        "黑白灰",
         "大地色"
       ],
       "silhouette": [
@@ -1221,62 +1399,33 @@
         "秋冬"
       ]
     },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/021.jpg",
-    "order": 36
+    "note": "韩系男生 · 整套灵感",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 55,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/055.jpg"
   },
   {
-    "id": "look-16f67dcc9410",
-    "title": "黑色西装外套与条纹内搭",
-    "image": "https://images.wear2.jp/coordinate/YMiQnlwm/rHGvH99S/1789269439_276.jpg",
-    "source": "https://wear.jp/sabanomicon/27343075/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
+    "id": "ms-1570345928972354762",
+    "order": 37,
+    "title": "黑色短棉服与浅灰宽裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/12/99c4358d413144dfb86f189e351e2bea.jpg",
+    "source": "https://www.musinsa.com/snap/1570345928972354762",
+    "sourceName": "MUSINSA · 망고땡1",
+    "sourceAuthor": "망고땡1",
+    "sourceLikes": 2,
+    "sourcePublishedAt": "2026-11-12T16:54:05+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
       "thickness": [
-        "适中"
+        "厚暖"
       ],
       "style": [
-        "简约",
-        "通勤"
+        "休闲"
       ],
       "palette": [
         "黑白灰"
-      ],
-      "silhouette": [
-        "利落"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/414.jpg",
-    "order": 37
-  },
-  {
-    "id": "look-608146faa5fd",
-    "title": "花纹短袖衬衫的夏日叠穿",
-    "image": "https://cdn.shopify.com/s/files/1/0962/1579/3977/files/0001_13_3524.jpg?v=1777372546&width=800",
-    "source": "https://covernat.jp/pages/2026-summer-with-soobin-lookbook",
-    "sourceName": "COVERNAT",
-    "selectionBasis": "品牌官方造型集",
-    "facets": {
-      "thickness": [
-        "轻薄"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "浅色系",
-        "亮色点缀"
       ],
       "silhouette": [
         "宽松"
@@ -1285,66 +1434,112 @@
         "叠穿"
       ],
       "season": [
-        "夏季"
+        "秋冬"
       ]
     },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/151.jpg",
-    "order": 38
+    "note": "韩系男生 · 整套灵感",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 56,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/056.jpg"
   },
   {
-    "id": "look-028",
+    "id": "ms-1569859229416315755",
+    "order": 38,
+    "title": "浅灰纹理针织与黑色宽裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/11/04659d94843744eda89f614008e65dd7.jpg",
+    "source": "https://www.musinsa.com/snap/1569859229416315755",
+    "sourceName": "MUSINSA · アントン_",
+    "sourceAuthor": "アントン_",
+    "sourceLikes": 3,
+    "sourcePublishedAt": "2026-11-11T08:40:07+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
+    "facets": {
+      "thickness": [
+        "适中"
+      ],
+      "style": [
+        "简约"
+      ],
+      "palette": [
+        "黑白灰"
+      ],
+      "silhouette": [
+        "宽松"
+      ],
+      "layering": [
+        "简洁单层"
+      ],
+      "season": [
+        "春秋"
+      ]
+    },
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 57,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/057.jpg"
+  },
+  {
+    "id": "ms-1570358281849508627",
     "order": 39,
-    "title": "短袖格纹 × 米色长裤",
-    "image": "https://en.jogunshop.com/storage/jogunshopU0/www//product/2026/30/O/product.19164.178474893313220.jpeg",
-    "source": "https://en.jogunshop.com/Product/Detail/view/pid/60697/cid/1698",
-    "sourceName": "JOGUNSHOP",
-    "facets": {
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "蓝色系",
-        "大地色"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "夏季"
-      ],
-      "thickness": [
-        "轻薄"
-      ]
-    },
-    "previewIndex": 28,
-    "tagMethod": "manual-visual-review",
+    "title": "黑色高领针织与黑色长裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/12/04f012afb50b44958b472846995335fc.jpg",
+    "source": "https://www.musinsa.com/snap/1570358281849508627",
+    "sourceName": "MUSINSA · itsjuniq",
+    "sourceAuthor": "itsjuniq",
+    "sourceLikes": 2,
+    "sourcePublishedAt": "2026-11-12T17:43:10+09:00",
     "capturedDate": "2026-11-12",
-    "previewFile": "outputs/static/028.jpg"
-  },
-  {
-    "id": "look-312d151c9973",
-    "title": "藏蓝连帽上衣与深棕长裤",
-    "image": "https://cdn.imweb.me/upload/S20260806bd7dcd774a5f3/c18c247faabc8.jpg",
-    "source": "https://code-graphy.com/archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=175241148&t=board",
-    "sourceName": "CODEGRAPHY",
-    "selectionBasis": "品牌官方造型集",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
       "thickness": [
         "适中"
       ],
       "style": [
-        "简约",
-        "休闲"
+        "简约"
       ],
       "palette": [
-        "蓝色系",
-        "大地色"
+        "黑白灰"
+      ],
+      "silhouette": [
+        "利落"
+      ],
+      "layering": [
+        "简洁单层"
+      ],
+      "season": [
+        "春秋"
+      ]
+    },
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 59,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/059.jpg"
+  },
+  {
+    "id": "ms-1569849441438607414",
+    "order": 40,
+    "title": "黑色西装与灰褐宽腿长裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/11/016d5159539a40089bf6c324d98bf556.jpg",
+    "source": "https://www.musinsa.com/snap/1569849441438607414",
+    "sourceName": "MUSINSA · min_rex",
+    "sourceAuthor": "min_rex",
+    "sourceLikes": 10,
+    "sourcePublishedAt": "2026-11-11T08:01:13+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
+    "facets": {
+      "thickness": [
+        "适中"
+      ],
+      "style": [
+        "通勤"
+      ],
+      "palette": [
+        "黑白灰"
       ],
       "silhouette": [
         "宽松"
@@ -1356,18 +1551,24 @@
         "春秋"
       ]
     },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/030.jpg",
-    "order": 40
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 60,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/060.jpg"
   },
   {
-    "id": "look-ca5b375cecd3",
-    "title": "黑色夹克与宽松牛仔",
-    "image": "https://images.wear2.jp/coordinate/lei0a46d/imGpipM3/1740448260_276.jpg",
-    "source": "https://wear.jp/reeboker99/25083763/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
+    "id": "ms-1569758964836750785",
+    "order": 41,
+    "title": "深色拉链针织与运动鞋",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/11/93ddba670dc54dddb35397cbd7fd7b71.jpg",
+    "source": "https://www.musinsa.com/snap/1569758964836750785",
+    "sourceName": "MUSINSA · 깔꼼하이",
+    "sourceAuthor": "깔꼼하이",
+    "sourceLikes": 4,
+    "sourcePublishedAt": "2026-11-11T02:01:42+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
       "thickness": [
         "适中"
@@ -1376,11 +1577,10 @@
         "休闲"
       ],
       "palette": [
-        "黑白灰",
-        "蓝色系"
+        "黑白灰"
       ],
       "silhouette": [
-        "宽松"
+        "利落"
       ],
       "layering": [
         "叠穿"
@@ -1389,28 +1589,33 @@
         "春秋"
       ]
     },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/415.jpg",
-    "order": 41
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 62,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/062.jpg"
   },
   {
-    "id": "look-edac923ef117",
-    "title": "灰色连帽衫与米白长裤",
-    "image": "https://cdn.shopify.com/s/files/1/0962/1579/3977/files/4d6cc94c945521ee7107b6abf854dd95.jpg?v=1770608133&width=800",
-    "source": "https://covernat.jp/pages/2026-spring-lookbook",
-    "sourceName": "COVERNAT",
-    "selectionBasis": "品牌官方造型集",
+    "id": "ms-1569370760420275178",
+    "order": 42,
+    "title": "黑色短大衣与灰色西裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/10/7c0c910d90d649a2a31e69158ba223a6.jpg",
+    "source": "https://www.musinsa.com/snap/1569370760420275178",
+    "sourceName": "MUSINSA · 데릭derek",
+    "sourceAuthor": "데릭derek",
+    "sourceLikes": 3,
+    "sourcePublishedAt": "2026-11-10T00:19:07+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
       "thickness": [
-        "适中"
+        "厚暖"
       ],
       "style": [
-        "休闲"
+        "通勤"
       ],
       "palette": [
-        "黑白灰",
-        "浅色系"
+        "黑白灰"
       ],
       "silhouette": [
         "宽松"
@@ -1419,55 +1624,27 @@
         "叠穿"
       ],
       "season": [
-        "春秋"
+        "秋冬"
       ]
     },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/153.jpg",
-    "order": 42
+    "note": "韩系男生 · 整套灵感",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 63,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/063.jpg"
   },
   {
-    "id": "look-031",
+    "id": "ms-1569840636375182284",
     "order": 43,
-    "title": "浅桃色衬衫与浅蓝牛仔",
-    "image": "https://en.jogunshop.com/storage/jogunshopU0/www//product/2026/30/O/product.19161.178466253745528.jpeg",
-    "source": "https://en.jogunshop.com/Product/Detail/view/pid/60688/cid/1698",
-    "sourceName": "JOGUNSHOP",
-    "facets": {
-      "style": [
-        "休闲",
-        "简约"
-      ],
-      "palette": [
-        "浅色系",
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "夏季"
-      ],
-      "thickness": [
-        "轻薄"
-      ]
-    },
-    "previewIndex": 31,
-    "tagMethod": "manual-visual-review",
+    "title": "深蓝翻领卫衣与浅灰卫裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/11/04c6d788e89e4ef2ba4458df16b488fc.jpg",
+    "source": "https://www.musinsa.com/snap/1569840636375182284",
+    "sourceName": "MUSINSA · TaeGuns",
+    "sourceAuthor": "TaeGuns",
+    "sourceLikes": 9,
+    "sourcePublishedAt": "2026-11-11T07:26:14+09:00",
     "capturedDate": "2026-11-12",
-    "previewFile": "outputs/static/031.jpg"
-  },
-  {
-    "id": "look-3a6e6302da22",
-    "title": "深蓝连帽针织与牛仔",
-    "image": "https://cdn.imweb.me/upload/S20260806bd7dcd774a5f3/a8da76009966c.jpg",
-    "source": "https://code-graphy.com/archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=175241148&t=board",
-    "sourceName": "CODEGRAPHY",
-    "selectionBasis": "品牌官方造型集",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
       "thickness": [
         "适中"
@@ -1482,64 +1659,74 @@
         "宽松"
       ],
       "layering": [
+        "简洁单层"
+      ],
+      "season": [
+        "春秋"
+      ]
+    },
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 66,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/066.jpg"
+  },
+  {
+    "id": "ms-1569472513969440530",
+    "order": 44,
+    "title": "焦糖灯芯绒西装与黑色长裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/10/82645eba165b4ec0b7ac6c644bda4f68.jpg",
+    "source": "https://www.musinsa.com/snap/1569472513969440530",
+    "sourceName": "MUSINSA · 가이던스1",
+    "sourceAuthor": "가이던스1",
+    "sourceLikes": 4,
+    "sourcePublishedAt": "2026-11-10T07:03:27+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
+    "facets": {
+      "thickness": [
+        "适中"
+      ],
+      "style": [
+        "复古"
+      ],
+      "palette": [
+        "大地色"
+      ],
+      "silhouette": [
+        "利落"
+      ],
+      "layering": [
         "叠穿"
       ],
       "season": [
         "春秋"
       ]
     },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/035.jpg",
-    "order": 44
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 68,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/068.jpg"
   },
   {
-    "id": "look-bac59e8af234",
-    "title": "浅灰背心叠穿白色短袖",
-    "image": "https://images.wear2.jp/coordinate/7biBZrne/f4CEl3kq/1788748628_276.jpg",
-    "source": "https://wear.jp/sken624/27311901/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "轻薄"
-      ],
-      "style": [
-        "简约"
-      ],
-      "palette": [
-        "黑白灰",
-        "浅色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "夏季"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
+    "id": "ms-1569997498526036297",
+    "order": 45,
+    "title": "黑色衬衫与棕色打褶长裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/11/5f3071c8706d4512b3ff1d4b20890f2b.jpg",
+    "source": "https://www.musinsa.com/snap/1569997498526036297",
+    "sourceName": "MUSINSA · 도도와쏘",
+    "sourceAuthor": "도도와쏘",
+    "sourceLikes": 6,
+    "sourcePublishedAt": "2026-11-11T17:49:33+09:00",
     "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/416.jpg",
-    "order": 45
-  },
-  {
-    "id": "look-176a94311b05",
-    "title": "绿色格纹衬衫与深色长裤",
-    "image": "https://cdn.shopify.com/s/files/1/0962/1579/3977/files/adeaac329faceffce0427ab789435a29.jpg?v=1770608211&width=800",
-    "source": "https://covernat.jp/pages/2026-spring-lookbook",
-    "sourceName": "COVERNAT",
-    "selectionBasis": "品牌官方造型集",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
       "thickness": [
         "适中"
       ],
       "style": [
-        "休闲",
-        "复古"
+        "通勤"
       ],
       "palette": [
         "大地色"
@@ -1548,325 +1735,68 @@
         "宽松"
       ],
       "layering": [
-        "叠穿"
+        "简洁单层"
       ],
       "season": [
         "春秋"
       ]
     },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/156.jpg",
-    "order": 46
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 72,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/072.jpg"
   },
   {
-    "id": "look-034",
+    "id": "ms-1569835048002274692",
+    "order": 46,
+    "title": "深棕针织与蓝色直筒牛仔",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/11/3c04c9034bbf420b90f84e1ea89327f9.jpg",
+    "source": "https://www.musinsa.com/snap/1569835048002274692",
+    "sourceName": "MUSINSA · Ju__n",
+    "sourceAuthor": "Ju__n",
+    "sourceLikes": 8,
+    "sourcePublishedAt": "2026-11-11T07:04:02+09:00",
+    "capturedDate": "2026-11-12",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
+    "facets": {
+      "thickness": [
+        "适中"
+      ],
+      "style": [
+        "简约"
+      ],
+      "palette": [
+        "蓝色系"
+      ],
+      "silhouette": [
+        "利落"
+      ],
+      "layering": [
+        "简洁单层"
+      ],
+      "season": [
+        "春秋"
+      ]
+    },
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 75,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/075.jpg"
+  },
+  {
+    "id": "ms-1569713129044303547",
     "order": 47,
-    "title": "白衬衫与米色短裤",
-    "image": "https://en.jogunshop.com/storage/jogunshopU0/www//product/2026/30/O/product.19161.178466253765189.jpeg",
-    "source": "https://en.jogunshop.com/Product/Detail/view/pid/60688/cid/1698",
-    "sourceName": "JOGUNSHOP",
-    "facets": {
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "浅色系",
-        "大地色"
-      ],
-      "silhouette": [
-        "利落"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "夏季"
-      ],
-      "thickness": [
-        "轻薄"
-      ]
-    },
-    "previewIndex": 34,
-    "tagMethod": "manual-visual-review",
+    "title": "炭灰短夹克与深蓝宽牛仔",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/10/91258c366431452a9882e7bae8d0edb1.jpg",
+    "source": "https://www.musinsa.com/snap/1569713129044303547",
+    "sourceName": "MUSINSA · 더블원스튜디오",
+    "sourceAuthor": "더블원스튜디오",
+    "sourceLikes": 1,
+    "sourcePublishedAt": "2026-11-10T22:59:34+09:00",
     "capturedDate": "2026-11-12",
-    "previewFile": "outputs/static/034.jpg"
-  },
-  {
-    "id": "look-587d1263c5ab",
-    "title": "黑色连帽衫与卡其长裤",
-    "image": "https://cdn.imweb.me/upload/S20260806bd7dcd774a5f3/c101c152357c6.jpg",
-    "source": "https://code-graphy.com/archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=175241148&t=board",
-    "sourceName": "CODEGRAPHY",
-    "selectionBasis": "品牌官方造型集",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "大地色"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/036.jpg",
-    "order": 48
-  },
-  {
-    "id": "look-87b2fa3157ea",
-    "title": "黑色印花T恤与灰色短裤",
-    "image": "https://images.wear2.jp/coordinate/ywiom27D/X6tuJEE0/1788651311_276.jpg",
-    "source": "https://wear.jp/lily03001/27307072/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "轻薄"
-      ],
-      "style": [
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "夏季"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/417.jpg",
-    "order": 49
-  },
-  {
-    "id": "look-6e7353c224f4",
-    "title": "墨绿棒球夹克与米白长裤",
-    "image": "https://cdn.shopify.com/s/files/1/0962/1579/3977/files/43d62f660f95849a5f2fe906403217a1.jpg?v=1770608293&width=800",
-    "source": "https://covernat.jp/pages/2026-spring-lookbook",
-    "sourceName": "COVERNAT",
-    "selectionBasis": "品牌官方造型集",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "大地色",
-        "浅色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/160.jpg",
-    "order": 50
-  },
-  {
-    "id": "look-035",
-    "order": 51,
-    "title": "黑色衬衫的夏日叠穿",
-    "image": "https://en.jogunshop.com/storage/jogunshopU0/www//product/2026/29/O/product.19147.178401781095613.jpeg",
-    "source": "https://en.jogunshop.com/Product/Detail/view/pid/60646/cid/1698",
-    "sourceName": "JOGUNSHOP",
-    "facets": {
-      "style": [
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "夏季"
-      ],
-      "thickness": [
-        "轻薄"
-      ]
-    },
-    "previewIndex": 35,
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/static/035.jpg"
-  },
-  {
-    "id": "look-0bc56b7ae42c",
-    "title": "蓝色针织与深色短裤",
-    "image": "https://cdn.imweb.me/upload/S20260806bd7dcd774a5f3/afd52fc472ecb.jpg",
-    "source": "https://code-graphy.com/archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=175241148&t=board",
-    "sourceName": "CODEGRAPHY",
-    "selectionBasis": "品牌官方造型集",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲"
-      ],
-      "palette": [
-        "蓝色系",
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/040.jpg",
-    "order": 52
-  },
-  {
-    "id": "look-ed3022372f79",
-    "title": "米白运动套装的蓝色线条",
-    "image": "https://images.wear2.jp/coordinate/zaibglLM/B2zYY77n/1788423255_276.jpg",
-    "source": "https://wear.jp/tomoh03250126/27298183/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "蓝色系",
-        "浅色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/418.jpg",
-    "order": 53
-  },
-  {
-    "id": "look-a0249a652978",
-    "title": "灰色休闲西装与卡其长裤",
-    "image": "https://cdn.shopify.com/s/files/1/0962/1579/3977/files/45d45676853004022b751087356fb0a7.jpg?v=1770608389&width=800",
-    "source": "https://covernat.jp/pages/2026-spring-lookbook",
-    "sourceName": "COVERNAT",
-    "selectionBasis": "品牌官方造型集",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "黑白灰",
-        "大地色"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/163.jpg",
-    "order": 54
-  },
-  {
-    "id": "look-041",
-    "order": 55,
-    "title": "藏蓝短袖与浅色短裤",
-    "image": "https://en.jogunshop.com/storage/jogunshopU0/www//product/2026/26/O/product.19120.178228261655697.jpeg",
-    "source": "https://en.jogunshop.com/Product/Detail/view/pid/60565/cid/1698",
-    "sourceName": "JOGUNSHOP",
-    "facets": {
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "蓝色系",
-        "浅色系"
-      ],
-      "silhouette": [
-        "利落"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "夏季"
-      ],
-      "thickness": [
-        "轻薄"
-      ]
-    },
-    "previewIndex": 41,
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/static/041.jpg"
-  },
-  {
-    "id": "look-2e88539957c9",
-    "title": "藏蓝针织与深色长裤",
-    "image": "https://cdn.imweb.me/upload/S20260806bd7dcd774a5f3/1a0904073c4bc.jpg",
-    "source": "https://code-graphy.com/archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=175241148&t=board",
-    "sourceName": "CODEGRAPHY",
-    "selectionBasis": "品牌官方造型集",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
       "thickness": [
         "适中"
@@ -1875,72 +1805,6 @@
         "简约"
       ],
       "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/042.jpg",
-    "order": 56
-  },
-  {
-    "id": "look-7398fae80b74",
-    "title": "黑色短袖与黑色运动长裤",
-    "image": "https://images.wear2.jp/coordinate/zaibglLM/NO3D5z6H/1788423486_276.jpg",
-    "source": "https://wear.jp/tomoh03250126/27298201/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "轻薄"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "夏季"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/419.jpg",
-    "order": 57
-  },
-  {
-    "id": "look-4509a86c3d6c",
-    "title": "蓝色短夹克与灰绿长裤",
-    "image": "https://cdn.shopify.com/s/files/1/0962/1579/3977/files/30ad3755af995f13d0f1779fb2ed51bc.jpg?v=1770608423&width=800",
-    "source": "https://covernat.jp/pages/2026-spring-lookbook",
-    "sourceName": "COVERNAT",
-    "selectionBasis": "品牌官方造型集",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
         "蓝色系"
       ],
       "silhouette": [
@@ -1953,436 +1817,36 @@
         "春秋"
       ]
     },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/165.jpg",
-    "order": 58
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 78,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/078.jpg"
   },
   {
-    "id": "look-021",
-    "order": 59,
-    "title": "浅格纹衬衫与黑色阔腿裤",
-    "image": "https://en.jogunshop.com/storage/jogunshopU0/www//product/2026/39/O/product.19239.179022781041395.jpeg",
-    "source": "https://en.jogunshop.com/Product/Detail/view/pid/60922/cid/1698",
-    "sourceName": "JOGUNSHOP",
-    "facets": {
-      "style": [
-        "休闲",
-        "简约"
-      ],
-      "palette": [
-        "浅色系",
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ],
-      "thickness": [
-        "适中"
-      ]
-    },
-    "previewIndex": 21,
-    "tagMethod": "manual-visual-review",
+    "id": "ms-1569894434141669661",
+    "order": 48,
+    "title": "红色菱格针织与奶白长裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/11/f9575c9a8f9f4a73954554bc2220c310.jpg",
+    "source": "https://www.musinsa.com/snap/1569894434141669661",
+    "sourceName": "MUSINSA · hwan_s_.",
+    "sourceAuthor": "hwan_s_.",
+    "sourceLikes": 1,
+    "sourcePublishedAt": "2026-11-11T11:00:00+09:00",
     "capturedDate": "2026-11-12",
-    "previewFile": "outputs/static/021.jpg"
-  },
-  {
-    "id": "look-3408f62e57ba",
-    "title": "紫色针织与灰色长裤",
-    "image": "https://cdn.imweb.me/upload/S20260806bd7dcd774a5f3/57f66468dc5d1.jpg",
-    "source": "https://code-graphy.com/archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=175241148&t=board",
-    "sourceName": "CODEGRAPHY",
-    "selectionBasis": "品牌官方造型集",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
       "thickness": [
         "适中"
       ],
       "style": [
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "亮色点缀"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/045.jpg",
-    "order": 60
-  },
-  {
-    "id": "look-7b1ffc1bf976",
-    "title": "浅灰连帽衫与浅蓝牛仔",
-    "image": "https://images.wear2.jp/coordinate/5EiDqzkx/DL3H6aqr/1742078527_276.jpg",
-    "source": "https://wear.jp/pooh3161/25147742/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲"
-      ],
-      "palette": [
-        "蓝色系",
-        "浅色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/421.jpg",
-    "order": 61
-  },
-  {
-    "id": "look-43f1a819a0b9",
-    "title": "浅绿开衫与灰绿长裤",
-    "image": "https://cdn.shopify.com/s/files/1/0962/1579/3977/files/78c4053c871fa6da7a617daa5d940f09.jpg?v=1770608479&width=800",
-    "source": "https://covernat.jp/pages/2026-spring-lookbook",
-    "sourceName": "COVERNAT",
-    "selectionBasis": "品牌官方造型集",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "大地色",
-        "浅色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/167.jpg",
-    "order": 62
-  },
-  {
-    "id": "look-043",
-    "order": 63,
-    "title": "牛仔短袖与黑色长裤",
-    "image": "https://en.jogunshop.com/storage/jogunshopU0/www//product/2026/26/O/product.19117.178219621938718.jpeg",
-    "source": "https://en.jogunshop.com/Product/Detail/view/pid/60556/cid/1698",
-    "sourceName": "JOGUNSHOP",
-    "facets": {
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "蓝色系",
-        "黑白灰"
-      ],
-      "silhouette": [
-        "利落"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "夏季"
-      ],
-      "thickness": [
-        "轻薄"
-      ]
-    },
-    "previewIndex": 43,
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/static/043.jpg"
-  },
-  {
-    "id": "look-946fc6f4a3c7",
-    "title": "紫色长袖与深色短裤",
-    "image": "https://cdn.imweb.me/upload/S20260806bd7dcd774a5f3/7e2550f392da7.jpg",
-    "source": "https://code-graphy.com/archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=175241148&t=board",
-    "sourceName": "CODEGRAPHY",
-    "selectionBasis": "品牌官方造型集",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "亮色点缀"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/046.jpg",
-    "order": 64
-  },
-  {
-    "id": "look-6cb17829f0fc",
-    "title": "深色牛仔套装",
-    "image": "https://images.wear2.jp/coordinate/vdi0X43p/u89xX4YQ/1712324256_276.jpg",
-    "source": "https://wear.jp/200110021121/24049862/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/422.jpg",
-    "order": 65
-  },
-  {
-    "id": "look-dd72d639c753",
-    "title": "蓝色棒球夹克与蓝色牛仔",
-    "image": "https://cdn.shopify.com/s/files/1/0962/1579/3977/files/8f7dba6401416ba7e49d1aa63ba93fe9.jpg?v=1770608528&width=800",
-    "source": "https://covernat.jp/pages/2026-spring-lookbook",
-    "sourceName": "COVERNAT",
-    "selectionBasis": "品牌官方造型集",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/169.jpg",
-    "order": 66
-  },
-  {
-    "id": "look-050",
-    "order": 67,
-    "title": "浅粉针织与黑色长裤",
-    "image": "https://en.jogunshop.com/storage/jogunshopU0/www//product/2026/43/O/product.19268.179261139584685.jpeg",
-    "source": "https://en.jogunshop.com/Product/Detail/view/pid/61009/cid/870",
-    "sourceName": "JOGUNSHOP",
-    "facets": {
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "浅色系"
-      ],
-      "silhouette": [
-        "利落"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋",
-        "秋冬"
-      ],
-      "thickness": [
-        "适中"
-      ]
-    },
-    "previewIndex": 50,
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/static/050.jpg"
-  },
-  {
-    "id": "look-74e9cb269a9e",
-    "title": "黑色短袖与米白阔腿裤",
-    "image": "https://images.wear2.jp/coordinate/abiexmo/ovTyb0z5/1717055296_276.jpg",
-    "source": "https://wear.jp/fujiki1017/24238835/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "轻薄"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "浅色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "夏季"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/423.jpg",
-    "order": 68
-  },
-  {
-    "id": "look-450b8462689b",
-    "title": "深色牛仔衬衫与深色长裤",
-    "image": "https://cdn.shopify.com/s/files/1/0962/1579/3977/files/6a359febd2d7c7b6401b2554cc0d712e.jpg?v=1770608580&width=800",
-    "source": "https://covernat.jp/pages/2026-spring-lookbook",
-    "sourceName": "COVERNAT",
-    "selectionBasis": "品牌官方造型集",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/171.jpg",
-    "order": 69
-  },
-  {
-    "id": "look-052",
-    "order": 70,
-    "title": "深色夹克的低调叠穿",
-    "image": "https://en.jogunshop.com/storage/jogunshopU0/www//product/2026/44/O/product.19282.179326261173365.jpeg",
-    "source": "https://en.jogunshop.com/Product/Detail/view/pid/61051/cid/870",
-    "sourceName": "JOGUNSHOP",
-    "facets": {
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "黑白灰",
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋",
-        "秋冬"
-      ],
-      "thickness": [
-        "适中"
-      ]
-    },
-    "previewIndex": 52,
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/static/052.jpg"
-  },
-  {
-    "id": "look-b7d703238922",
-    "title": "花纹夹克与亮粉色长裤",
-    "image": "https://images.wear2.jp/coordinate/lei0a46d/5upypZtr/1764081961_276.jpg",
-    "source": "https://wear.jp/reeboker99/26058082/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
         "复古"
       ],
       "palette": [
         "亮色点缀"
       ],
       "silhouette": [
-        "宽松"
+        "利落"
       ],
       "layering": [
         "叠穿"
@@ -2391,2770 +1855,30 @@
         "春秋"
       ]
     },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/424.jpg",
-    "order": 71
+    "note": "厚度按画面粗分；冬季可能需要加外套",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 81,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/081.jpg"
   },
   {
-    "id": "look-4f576ff0bc0e",
-    "title": "蓝色工作夹克与白色短裤",
-    "image": "https://cdn.shopify.com/s/files/1/0962/1579/3977/files/940438d201ab64e84407a12be62422ab.jpg?v=1770608648&width=800",
-    "source": "https://covernat.jp/pages/2026-spring-lookbook",
-    "sourceName": "COVERNAT",
-    "selectionBasis": "品牌官方造型集",
-    "facets": {
-      "thickness": [
-        "轻薄"
-      ],
-      "style": [
-        "休闲"
-      ],
-      "palette": [
-        "蓝色系",
-        "浅色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "夏季"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
+    "id": "ms-1569663684383735122",
+    "order": 49,
+    "title": "橄榄长款绗缝外套与卡其裤",
+    "image": "https://image.msscdn.net/thumbnails/snap/images/2026/11/10/c29b690dd4b348e09d185badc762a0d0.jpg",
+    "source": "https://www.musinsa.com/snap/1569663684383735122",
+    "sourceName": "MUSINSA · k_hooni_",
+    "sourceAuthor": "k_hooni_",
+    "sourceLikes": 2,
+    "sourcePublishedAt": "2026-11-10T19:43:05+09:00",
     "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/173.jpg",
-    "order": 72
-  },
-  {
-    "id": "look-053",
-    "order": 73,
-    "title": "灰色针织，红鞋点睛",
-    "image": "https://en.jogunshop.com/storage/jogunshopU0/www//product/2026/44/O/product.19282.179326261245584.jpeg",
-    "source": "https://en.jogunshop.com/Product/Detail/view/pid/61051/cid/870",
-    "sourceName": "JOGUNSHOP",
-    "facets": {
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "亮色点缀"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ],
-      "thickness": [
-        "适中"
-      ]
-    },
-    "previewIndex": 53,
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/static/053.jpg"
-  },
-  {
-    "id": "look-f587e6ac160b",
-    "title": "白色印花T恤与黑色牛仔",
-    "image": "https://images.wear2.jp/coordinate/ekizG2E8/75g7mjtC/1782120791_276.jpg",
-    "source": "https://wear.jp/343lazar3/26829139/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "轻薄"
-      ],
-      "style": [
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "浅色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "夏季"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/425.jpg",
-    "order": 74
-  },
-  {
-    "id": "look-69de84ebf877",
-    "title": "条纹长袖与深色阔腿裤",
-    "image": "https://cdn.shopify.com/s/files/1/0962/1579/3977/files/73e40b3e05b21f26b8dc27d16b8a7047.jpg?v=1770608697&width=800",
-    "source": "https://covernat.jp/pages/2026-spring-lookbook",
-    "sourceName": "COVERNAT",
-    "selectionBasis": "品牌官方造型集",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/175.jpg",
-    "order": 75
-  },
-  {
-    "id": "look-055",
-    "order": 76,
-    "title": "橄榄绿夹克与红色内搭",
-    "image": "https://en.jogunshop.com/storage/jogunshopU0/www//product/2026/46/O/product.19339.179430661098015.jpeg",
-    "source": "https://en.jogunshop.com/Product/Detail/view/pid/61222/cid/870",
-    "sourceName": "JOGUNSHOP",
-    "facets": {
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "大地色",
-        "亮色点缀"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ],
-      "thickness": [
-        "适中"
-      ]
-    },
-    "previewIndex": 55,
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/static/055.jpg"
-  },
-  {
-    "id": "look-e39b8e4560b1",
-    "title": "迷彩T恤与黑色长裤",
-    "image": "https://images.wear2.jp/coordinate/ekizG2E8/Rdpez8Lq/1782211747_276.jpg",
-    "source": "https://wear.jp/343lazar3/26853759/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "轻薄"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "大地色",
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "夏季"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/426.jpg",
-    "order": 77
-  },
-  {
-    "id": "look-0ea539c8f9db",
-    "title": "浅橘连帽衫与米白长裤",
-    "image": "https://cdn.shopify.com/s/files/1/0962/1579/3977/files/df954b2dd45c9d0532a2f4ac8dd39067.jpg?v=1770608780&width=800",
-    "source": "https://covernat.jp/pages/2026-spring-lookbook",
-    "sourceName": "COVERNAT",
-    "selectionBasis": "品牌官方造型集",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲"
-      ],
-      "palette": [
-        "浅色系",
-        "亮色点缀"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/178.jpg",
-    "order": 78
-  },
-  {
-    "id": "look-ef65ea2d7e9b",
-    "title": "黑色厚夹克与灰色长裤",
-    "image": "https://images.wear2.jp/coordinate/LdixR2MA/8nDueQpt/1775406346_276.jpg",
-    "source": "https://wear.jp/hmtkm510/26489075/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
+    "selectionBasis": "男生用户冬季关键词热门列表候选；GPT逐张视觉筛选，非按点赞阈值保证高赞",
     "facets": {
       "thickness": [
         "厚暖"
       ],
       "style": [
-        "简约",
         "休闲"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "秋冬"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/427.jpg",
-    "order": 79
-  },
-  {
-    "id": "look-f3cdd3ea86a8",
-    "title": "灰色针织与卡其长裤",
-    "image": "https://cdn.shopify.com/s/files/1/0962/1579/3977/files/27e0289b60cc3387376c8d771fcab2f8.jpg?v=1770609134&width=800",
-    "source": "https://covernat.jp/pages/2026-spring-lookbook",
-    "sourceName": "COVERNAT",
-    "selectionBasis": "品牌官方造型集",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "黑白灰",
-        "大地色"
-      ],
-      "silhouette": [
-        "利落"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/190.jpg",
-    "order": 80
-  },
-  {
-    "id": "look-fd9f20a38069",
-    "title": "深蓝牛仔套装的直筒轮廓",
-    "image": "https://images.wear2.jp/coordinate/08ij6qax/buqkAlrM/1775132195_276.jpg",
-    "source": "https://wear.jp/gunken5/26478632/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/428.jpg",
-    "order": 81
-  },
-  {
-    "id": "look-b246f6a21522",
-    "title": "米色连帽外套与白色长裤",
-    "image": "https://cdn.shopify.com/s/files/1/0962/1579/3977/files/bd7ff86c8bdd1528a399a87a8a74e10a.jpg?v=1770609330&width=800",
-    "source": "https://covernat.jp/pages/2026-spring-lookbook",
-    "sourceName": "COVERNAT",
-    "selectionBasis": "品牌官方造型集",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "大地色",
-        "浅色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/195.jpg",
-    "order": 82
-  },
-  {
-    "id": "look-697647dc0b62",
-    "title": "黑衬衫与黑色直筒裤",
-    "image": "https://images.wear2.jp/coordinate/jmixkdaP/H3W3Irp4/1774514759_276.jpg",
-    "source": "https://wear.jp/renhyo/26453028/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "利落"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/429.jpg",
-    "order": 83
-  },
-  {
-    "id": "look-f981b44b2771",
-    "title": "浅灰运动套装与条纹内搭",
-    "image": "https://cdn.shopify.com/s/files/1/0962/1579/3977/files/7dbcd4231720dfdf74a4c029ce18ee4a.jpg?v=1770609435&width=800",
-    "source": "https://covernat.jp/pages/2026-spring-lookbook",
-    "sourceName": "COVERNAT",
-    "selectionBasis": "品牌官方造型集",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "浅色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/199.jpg",
-    "order": 84
-  },
-  {
-    "id": "look-3adddeaec9f0",
-    "title": "酒红针织与灰绿长裤",
-    "image": "https://cdn.wimg.jp/coordinate/k2pvgb/20191009101541593/20191009101541593_276.jpg",
-    "source": "https://wear.jp/basquemagenta/15482524/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "大地色",
-        "亮色点缀"
-      ],
-      "silhouette": [
-        "利落"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/433.jpg",
-    "order": 85
-  },
-  {
-    "id": "look-318f45317da5",
-    "title": "蓝色格纹衬衫与浅蓝牛仔",
-    "image": "https://cdn.shopify.com/s/files/1/0962/1579/3977/files/9117c0faf02aa7c31f49a0288674a1a8.jpg?v=1770609509&width=800",
-    "source": "https://covernat.jp/pages/2026-spring-lookbook",
-    "sourceName": "COVERNAT",
-    "selectionBasis": "品牌官方造型集",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/201.jpg",
-    "order": 86
-  },
-  {
-    "id": "look-7ae2388b858b",
-    "title": "皮夹克与浅蓝衬衫",
-    "image": "https://cdn.wimg.jp/coordinate/tptfrw/20201227115828487/20201227115828487_276.jpg",
-    "source": "https://wear.jp/lhplucua1/18369859/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "黑白灰",
-        "蓝色系"
-      ],
-      "silhouette": [
-        "利落"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/434.jpg",
-    "order": 87
-  },
-  {
-    "id": "look-544ceffdcfd7",
-    "title": "灰色格纹衬衫的浅色叠穿",
-    "image": "https://cdn.shopify.com/s/files/1/0962/1579/3977/files/a24201e7309d0186ad7bc6b88f1c4ba1.jpg?v=1770609659&width=800",
-    "source": "https://covernat.jp/pages/2026-spring-lookbook",
-    "sourceName": "COVERNAT",
-    "selectionBasis": "品牌官方造型集",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "蓝色系",
-        "浅色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/205.jpg",
-    "order": 88
-  },
-  {
-    "id": "look-844772efebf7",
-    "title": "灰色西装与黑色内搭",
-    "image": "https://cdn.wimg.jp/coordinate/gzkfxr/20200317182633439/20200317182633439_276.jpg",
-    "source": "https://wear.jp/ikkakyoyodo/16421386/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "利落"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/435.jpg",
-    "order": 89
-  },
-  {
-    "id": "look-0733fca456c1",
-    "title": "米白卫衣与牛仔裤",
-    "image": "https://cdn.shopify.com/s/files/1/0962/1579/3977/files/643aa6da09e32a24ec27bce109a90957.jpg?v=1770609765&width=800",
-    "source": "https://covernat.jp/pages/2026-spring-lookbook",
-    "sourceName": "COVERNAT",
-    "selectionBasis": "品牌官方造型集",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲"
-      ],
-      "palette": [
-        "蓝色系",
-        "浅色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/208.jpg",
-    "order": 90
-  },
-  {
-    "id": "look-d15a0728b072",
-    "title": "浅灰西装套装与白鞋",
-    "image": "https://cdn.wimg.jp/coordinate/n98xcw/20210402123003959/20210402123003959_276.jpg",
-    "source": "https://wear.jp/CERCA_OFFICIAL/19011318/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "黑白灰",
-        "浅色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/438.jpg",
-    "order": 91
-  },
-  {
-    "id": "look-c3e105c979e2",
-    "title": "黑色短夹克与灰色西裤",
-    "image": "https://images.wear2.jp/coordinate/7bibEZOA/1sEPesuv/1763916809_276.jpg",
-    "source": "https://wear.jp/hayaton0/26051934/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/439.jpg",
-    "order": 92
-  },
-  {
-    "id": "look-61bb6140d00e",
-    "title": "棕色夹克与深蓝长裤",
-    "image": "https://images.wear2.jp/coordinate/xVidjJR5/A1Kunm7N/1769158733_276.jpg",
-    "source": "https://wear.jp/yosk1028/26245905/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "大地色",
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/440.jpg",
-    "order": 93
-  },
-  {
-    "id": "look-06c5e0fcb3f6",
-    "title": "黑色羽绒与米白长裤",
-    "image": "https://images.wear2.jp/coordinate/p3i3peyX/mq32GE0j/1763551458_276.jpg",
-    "source": "https://wear.jp/mga2006/26038107/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "厚暖"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "浅色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "秋冬"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/441.jpg",
-    "order": 94
-  },
-  {
-    "id": "look-33e646c9eb51",
-    "title": "无袖上衣与深色长裤",
-    "image": "https://images.wear2.jp/coordinate/oJi0LMy/SsavB4G3/1748577518_276.jpg",
-    "source": "https://wear.jp/kouichiroakiyama/25411247/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "轻薄"
-      ],
-      "style": [
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "利落"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "夏季"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/443.jpg",
-    "order": 95
-  },
-  {
-    "id": "look-9d657674477f",
-    "title": "白色卫衣与黑色长裤",
-    "image": "https://images.wear2.jp/coordinate/MninEWlg/anebRAhU/1764919309_276.jpg",
-    "source": "https://wear.jp/micchi045/26090937/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "浅色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/444.jpg",
-    "order": 96
-  },
-  {
-    "id": "look-9213817fc869",
-    "title": "深灰双排扣大衣与牛仔",
-    "image": "https://images.wear2.jp/coordinate/QWiWqBbb/35qzPwT1/1764654099_276.jpg",
-    "source": "https://wear.jp/gaisu502/26081047/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "厚暖"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "黑白灰",
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "秋冬"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/445.jpg",
-    "order": 97
-  },
-  {
-    "id": "look-d2ef1900461a",
-    "title": "浅灰羽绒与深色长裤",
-    "image": "https://cdn.wimg.jp/coordinate/6bp7ls/20191122193036347/20191122193036347_276.jpg",
-    "source": "https://wear.jp/vivastudio/15762084/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "厚暖"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "秋冬"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/446.jpg",
-    "order": 98
-  },
-  {
-    "id": "look-c78767ee6e03",
-    "title": "深蓝长大衣与白色内搭",
-    "image": "https://cdn.wimg.jp/coordinate/bwl6qs/20201113101105211/20201113101105211_276.jpg",
-    "source": "https://wear.jp/xin1107/18079817/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "厚暖"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "蓝色系",
-        "浅色系"
-      ],
-      "silhouette": [
-        "利落"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "秋冬"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/447.jpg",
-    "order": 99
-  },
-  {
-    "id": "look-323d83b3be56",
-    "title": "浅色花纹短袖与深色长裤",
-    "image": "https://images.wear2.jp/coordinate/lei208pG/RfsWobuQ/1763991968_276.jpg",
-    "source": "https://wear.jp/syuta228/26054802/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "轻薄"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "黑白灰",
-        "浅色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "夏季"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/448.jpg",
-    "order": 100
-  },
-  {
-    "id": "look-ac651ab59f35",
-    "title": "菱格针织与蓝色牛仔",
-    "image": "https://cdn.wimg.jp/coordinate/um64ls/20171214185714055/20171214185714055_276.jpg",
-    "source": "https://wear.jp/understudyclubJP/11473483/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "黑白灰",
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/449.jpg",
-    "order": 101
-  },
-  {
-    "id": "look-3383054809f6",
-    "title": "黑色厚夹克与浅蓝牛仔",
-    "image": "https://images.wear2.jp/coordinate/wsmhgl/20230117174109309/20230117174109309_276.jpg",
-    "source": "https://wear.jp/KONVINI/22515785/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "厚暖"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "秋冬"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/452.jpg",
-    "order": 102
-  },
-  {
-    "id": "look-77429ab24d8c",
-    "title": "黑色连帽衫与卡其长裤",
-    "image": "https://cdn.wimg.jp/coordinate/um64ls/20180205181608835/20180205181608835_276.jpg",
-    "source": "https://wear.jp/understudyclubJP/11770188/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "大地色"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/454.jpg",
-    "order": 103
-  },
-  {
-    "id": "look-6e65c422e30a",
-    "title": "浅蓝衬衫与米色阔腿裤",
-    "image": "https://images.wear2.jp/coordinate/wsmhgl/20230117134831864/20230117134831864_276.jpg",
-    "source": "https://wear.jp/KONVINI/22514982/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "蓝色系",
-        "大地色"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/455.jpg",
-    "order": 104
-  },
-  {
-    "id": "look-292847052c7f",
-    "title": "米色衬衫与黑色阔腿裤",
-    "image": "https://images.wear2.jp/coordinate/wsmhgl/20230324142431644/20230324142431644_276.jpg",
-    "source": "https://wear.jp/KONVINI/22754676/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "大地色"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/456.jpg",
-    "order": 105
-  },
-  {
-    "id": "look-cec172da3003",
-    "title": "米色长袖与深色牛仔",
-    "image": "https://images.wear2.jp/coordinate/eki0nAP/B8SGMZQo/1792634712_276.jpg",
-    "source": "https://wear.jp/kubaaaaacchi/27500732/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约"
-      ],
-      "palette": [
-        "黑白灰",
-        "大地色"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/457.jpg",
-    "order": 106
-  },
-  {
-    "id": "look-65dd6b9bd347",
-    "title": "黑色短夹克与黑色阔腿裤",
-    "image": "https://images.wear2.jp/coordinate/eki0nAP/qtFph5O7/1786017653_276.jpg",
-    "source": "https://wear.jp/kubaaaaacchi/27197756/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/458.jpg",
-    "order": 107
-  },
-  {
-    "id": "look-cd76f5cbaf9e",
-    "title": "黑色皮夹克与利落长裤",
-    "image": "https://images.wear2.jp/coordinate/eki0nAP/CIEAzySA/1764205877_276.jpg",
-    "source": "https://wear.jp/kubaaaaacchi/26062506/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "利落"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/459.jpg",
-    "order": 108
-  },
-  {
-    "id": "look-febe2ef17452",
-    "title": "黑色毛绒外套与灰色阔腿裤",
-    "image": "https://images.wear2.jp/coordinate/3oiwoewR/l3q53PQU/1791372673_276.jpg",
-    "source": "https://wear.jp/aaxxy2/27438404/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "厚暖"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "秋冬"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/460.jpg",
-    "order": 109
-  },
-  {
-    "id": "look-afc024e27c31",
-    "title": "皮夹克叠穿与宽腿牛仔",
-    "image": "https://images.wear2.jp/coordinate/kAizVZ4D/FvFiLVmY/1773701491_276.jpg",
-    "source": "https://wear.jp/mh054080/26418189/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "黑白灰",
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/461.jpg",
-    "order": 110
-  },
-  {
-    "id": "look-0fe17bf9e14f",
-    "title": "黑色夹克与条纹上衣",
-    "image": "https://images.wear2.jp/coordinate/xVi5zwdb/ZVyrklWl/1793944466_276.jpg",
-    "source": "https://wear.jp/mrszk/27562884/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/462.jpg",
-    "order": 111
-  },
-  {
-    "id": "look-ba0ef6486062",
-    "title": "黑色长大衣的深色叠穿",
-    "image": "https://images.wear2.jp/coordinate/4XiqbGV6/hL5m9nV2/1794318311_276.jpg",
-    "source": "https://wear.jp/temma1207/27580248/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "厚暖"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "秋冬"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/463.jpg",
-    "order": 112
-  },
-  {
-    "id": "look-ea223ba34858",
-    "title": "浅灰长大衣与黑色长裤",
-    "image": "https://images.wear2.jp/coordinate/LdiqVEVM/m4FxzcSp/1794286243_276.jpg",
-    "source": "https://wear.jp/rei1212u/27578497/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "厚暖"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "黑白灰",
-        "浅色系"
-      ],
-      "silhouette": [
-        "利落"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "秋冬"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/464.jpg",
-    "order": 113
-  },
-  {
-    "id": "look-0d4e7bebdd9d",
-    "title": "黑色皮夹克与卡其长裤",
-    "image": "https://images.wear2.jp/coordinate/oJiZbJMq/sBkhje5I/1794405041_276.jpg",
-    "source": "https://wear.jp/863y/27584088/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "黑白灰",
-        "大地色"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/465.jpg",
-    "order": 114
-  },
-  {
-    "id": "look-1be494e087bc",
-    "title": "豹纹长袖与深色长裤",
-    "image": "https://images.wear2.jp/coordinate/wniBgdYR/O8Tqs4fm/1794213119_276.jpg",
-    "source": "https://wear.jp/toshiya173/27575436/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "大地色",
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/466.jpg",
-    "order": 115
-  },
-  {
-    "id": "look-f5b951a557a7",
-    "title": "灰色上衣与细条纹阔腿裤",
-    "image": "https://images.wear2.jp/coordinate/kAizVZ4D/JHTaOKr4/1792755631_276.jpg",
-    "source": "https://wear.jp/mh054080/27507659/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/467.jpg",
-    "order": 116
-  },
-  {
-    "id": "look-1822e2d3e70a",
-    "title": "深色短夹克与黑色牛仔",
-    "image": "https://images.wear2.jp/coordinate/vdi3OOa6/YjPvz4Iq/1794138644_276.jpg",
-    "source": "https://wear.jp/shogoxxx88/27571982/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/468.jpg",
-    "order": 117
-  },
-  {
-    "id": "look-d98e1f07223b",
-    "title": "皮夹克与水洗灰色牛仔",
-    "image": "https://images.wear2.jp/coordinate/kAizVZ4D/EspNzZfF/1792065990_276.jpg",
-    "source": "https://wear.jp/mh054080/27472021/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/469.jpg",
-    "order": 118
-  },
-  {
-    "id": "look-88576cf2b351",
-    "title": "米白夹克与黑色阔腿裤",
-    "image": "https://images.wear2.jp/coordinate/4XiqbGV6/btpSgX3g/1794372307_276.jpg",
-    "source": "https://wear.jp/temma1207/27582109/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "浅色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/470.jpg",
-    "order": 119
-  },
-  {
-    "id": "look-22f847baa61b",
-    "title": "黑色毛绒夹克与深色牛仔",
-    "image": "https://images.wear2.jp/coordinate/kAizPOPJ/My1rfcKa/1794128719_276.jpg",
-    "source": "https://wear.jp/madosato0117/27571350/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "厚暖"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "秋冬"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/471.jpg",
-    "order": 120
-  },
-  {
-    "id": "look-72ca5d2b4b05",
-    "title": "深色格纹长大衣与针织叠穿",
-    "image": "https://images.wear2.jp/coordinate/4XiqbGV6/Bv8e4KTm/1794355338_276.jpg",
-    "source": "https://wear.jp/temma1207/27580774/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "厚暖"
-      ],
-      "style": [
-        "复古",
-        "通勤"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "秋冬"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/472.jpg",
-    "order": 121
-  },
-  {
-    "id": "look-a0c1717e75ab",
-    "title": "灰色迷彩连帽衫与黑色长裤",
-    "image": "https://images.wear2.jp/coordinate/V7ilx3wk/Ivv1QNw0/1794205505_276.jpg",
-    "source": "https://wear.jp/karashi0408/27574875/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/473.jpg",
-    "order": 122
-  },
-  {
-    "id": "look-37239dbea8a8",
-    "title": "黑色开衫与卡其长裤",
-    "image": "https://images.wear2.jp/coordinate/oJiZbJMq/HXmtWymq/1794184845_276.jpg",
-    "source": "https://wear.jp/863y/27573779/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "大地色"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/474.jpg",
-    "order": 123
-  },
-  {
-    "id": "look-9e03969592e4",
-    "title": "浅灰针织与黑色长裤",
-    "image": "https://images.wear2.jp/coordinate/oJiZbJMq/Vtn2X1tu/1794184506_276.jpg",
-    "source": "https://wear.jp/863y/27573764/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约"
-      ],
-      "palette": [
-        "黑白灰",
-        "浅色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/475.jpg",
-    "order": 124
-  },
-  {
-    "id": "look-c2323fba041d",
-    "title": "棕色格纹衬衫与卡其长裤",
-    "image": "https://images.wear2.jp/coordinate/wniBgdYR/xCjHYI0v/1794213245_276.jpg",
-    "source": "https://wear.jp/toshiya173/27575445/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "大地色"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/476.jpg",
-    "order": 125
-  },
-  {
-    "id": "look-3d6e9d23c65b",
-    "title": "黑色夹克与卡其阔腿裤",
-    "image": "https://images.wear2.jp/coordinate/Mni7423d/X7bTnwu3/1790737187_276.jpg",
-    "source": "https://wear.jp/vitafelice/27408212/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "大地色"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/477.jpg",
-    "order": 126
-  },
-  {
-    "id": "look-a29881c87186",
-    "title": "藏蓝卫衣与黑色短裤",
-    "image": "https://images.wear2.jp/coordinate/d2i3q5yv/Ipf6O2iJ/1790602066_276.jpg",
-    "source": "https://wear.jp/pedrogonzalezlopez/27402358/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/478.jpg",
-    "order": 127
-  },
-  {
-    "id": "look-762dc739c18b",
-    "title": "灰色长风衣与米白长裤",
-    "image": "https://images.wear2.jp/coordinate/qri8wx0k/Dansy8Dw/1738544983_276.jpg",
-    "source": "https://wear.jp/taigawed/25019195/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "黑白灰",
-        "浅色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/479.jpg",
-    "order": 128
-  },
-  {
-    "id": "look-8887180ff505",
-    "title": "蓝色菱格针织与黑色阔腿裤",
-    "image": "https://images.wear2.jp/coordinate/vdira3Jq/4ntOvQcQ/1794047713_276.jpg",
-    "source": "https://wear.jp/haku2989/27567822/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "蓝色系",
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/480.jpg",
-    "order": 129
-  },
-  {
-    "id": "look-a3df79839c27",
-    "title": "黑色长袖与棕色直筒裤",
-    "image": "https://images.wear2.jp/coordinate/08iYwaZr/nLEaKcVz/1791369950_276.jpg",
-    "source": "https://wear.jp/nowle/27438266/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "黑白灰",
-        "大地色"
-      ],
-      "silhouette": [
-        "利落"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/481.jpg",
-    "order": 130
-  },
-  {
-    "id": "look-2415b1f68f4b",
-    "title": "宽松针织与灰色阔腿裤",
-    "image": "https://images.wear2.jp/coordinate/qri8wx0k/68bUhqzo/1724375243_276.jpg",
-    "source": "https://wear.jp/taigawed/24491984/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/482.jpg",
-    "order": 131
-  },
-  {
-    "id": "look-382f8d689da8",
-    "title": "短袖衬衫与米白阔腿裤",
-    "image": "https://images.wear2.jp/coordinate/rlivex3A/grWISuZm/1779322344_276.jpg",
-    "source": "https://wear.jp/nowvillage7023/26683225/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "轻薄"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "浅色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "夏季"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/483.jpg",
-    "order": 132
-  },
-  {
-    "id": "look-5146aef65c1c",
-    "title": "灰蓝针织与黑色长裤",
-    "image": "https://images.wear2.jp/coordinate/qri8wx0k/zrJv8lxu/1741396098_276.jpg",
-    "source": "https://wear.jp/taigawed/25123039/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/484.jpg",
-    "order": 133
-  },
-  {
-    "id": "look-705c075d7157",
-    "title": "灰色印花T恤与破洞牛仔",
-    "image": "https://images.wear2.jp/coordinate/4Xiq3xLx/7Cr6EfcB/1723943467_276.jpg",
-    "source": "https://wear.jp/daikiis2/24477443/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "轻薄"
-      ],
-      "style": [
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "蓝色系"
-      ],
-      "silhouette": [
-        "利落"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "夏季"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/485.jpg",
-    "order": 134
-  },
-  {
-    "id": "look-29ac8f2ca692",
-    "title": "黑橘运动外套与深色阔腿裤",
-    "image": "https://images.wear2.jp/coordinate/bBiebzJd/yys8KMmc/1740877729_276.jpg",
-    "source": "https://wear.jp/mozu89/25104681/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "亮色点缀"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/486.jpg",
-    "order": 135
-  },
-  {
-    "id": "look-2a978701ec5f",
-    "title": "黑色卫衣与蓝灰格纹长裤",
-    "image": "https://images.wear2.jp/coordinate/bBiebzJd/ckSd8gak/1729558834_276.jpg",
-    "source": "https://wear.jp/mozu89/24683914/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "黑白灰",
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/488.jpg",
-    "order": 136
-  },
-  {
-    "id": "look-ee5616a596ee",
-    "title": "黑色立领短外套与阔腿裤",
-    "image": "https://images.wear2.jp/coordinate/rlivex3A/KChGNXXV/1793628910_276.jpg",
-    "source": "https://wear.jp/nowvillage7023/27549592/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/489.jpg",
-    "order": 137
-  },
-  {
-    "id": "look-e5bb1a2271cd",
-    "title": "灰色短夹克与黑色阔腿裤",
-    "image": "https://images.wear2.jp/coordinate/rlivex3A/Ugi3BNH6/1793629245_276.jpg",
-    "source": "https://wear.jp/nowvillage7023/27549602/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/490.jpg",
-    "order": 138
-  },
-  {
-    "id": "look-af946f9d7c08",
-    "title": "藏蓝运动上衣与浅灰运动裤",
-    "image": "https://images.wear2.jp/coordinate/m0iAwmDA/FDj0Fskx/1788051041_276.jpg",
-    "source": "https://wear.jp/dnjsl2l8/27280732/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲"
-      ],
-      "palette": [
-        "蓝色系",
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/491.jpg",
-    "order": 139
-  },
-  {
-    "id": "look-2ac7d10774d3",
-    "title": "深色格纹衬衫与灰色长裤",
-    "image": "https://images.wear2.jp/coordinate/vdira3Jq/d5kGVQP0/1793961327_276.jpg",
-    "source": "https://wear.jp/haku2989/27564360/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/492.jpg",
-    "order": 140
-  },
-  {
-    "id": "look-b36ca9b95d95",
-    "title": "浅灰拉链上衣与同色长裤",
-    "image": "https://images.wear2.jp/coordinate/vdira3Jq/4MS1RAQP/1793961325_276.jpg",
-    "source": "https://wear.jp/haku2989/27564359/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "浅色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/493.jpg",
-    "order": 141
-  },
-  {
-    "id": "look-b5d9fe8c3ab5",
-    "title": "黑色夹克与卡其长裤",
-    "image": "https://images.wear2.jp/coordinate/Mni7423d/HPdalp0r/1790736993_276.jpg",
-    "source": "https://wear.jp/vitafelice/27408199/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "大地色"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/494.jpg",
-    "order": 142
-  },
-  {
-    "id": "look-1ccb6eeac494",
-    "title": "黑色皮夹克与亮蓝围巾",
-    "image": "https://images.wear2.jp/coordinate/m0iAwmDA/IURi7P04/1793104535_276.jpg",
-    "source": "https://wear.jp/dnjsl2l8/27523414/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "蓝色系",
-        "亮色点缀"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/495.jpg",
-    "order": 143
-  },
-  {
-    "id": "look-90a059143954",
-    "title": "黑色卫衣与灰绿长裤",
-    "image": "https://images.wear2.jp/coordinate/m0iAwmDA/nshtIx8D/1793261108_276.jpg",
-    "source": "https://wear.jp/dnjsl2l8/27530742/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "大地色"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/496.jpg",
-    "order": 144
-  },
-  {
-    "id": "look-191de6c0d6b2",
-    "title": "红色针织与卡其长裤",
-    "image": "https://cdn.wimg.jp/coordinate/bwl6qs/20201107155013876/20201107155013876_276.jpg",
-    "source": "https://wear.jp/xin1107/18039493/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "大地色",
-        "亮色点缀"
-      ],
-      "silhouette": [
-        "利落"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/498.jpg",
-    "order": 145
-  },
-  {
-    "id": "look-8d9a1c2c399e",
-    "title": "黑色印花T恤与亮蓝长裤",
-    "image": "https://images.wear2.jp/coordinate/MniLpj2z/GtQV1dFF/1661684364_276.jpg",
-    "source": "https://wear.jp/makomhib/21913999/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "轻薄"
-      ],
-      "style": [
-        "休闲"
-      ],
-      "palette": [
-        "蓝色系",
-        "亮色点缀"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "夏季"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/499.jpg",
-    "order": 146
-  },
-  {
-    "id": "look-22d5c2515c48",
-    "title": "深灰针织与黑色修身长裤",
-    "image": "https://cdn.wimg.jp/coordinate/bwl6qs/20201117114415562/20201117114415562_276.jpg",
-    "source": "https://wear.jp/xin1107/18108978/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "利落"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/502.jpg",
-    "order": 147
-  },
-  {
-    "id": "look-edb1c99b05c5",
-    "title": "黑色短袖与深色修身牛仔",
-    "image": "https://cdn.wimg.jp/coordinate/drxc55/20190927150925818/20190927150925818_276.jpg",
-    "source": "https://wear.jp/tomm7/15412487/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "轻薄"
-      ],
-      "style": [
-        "简约"
-      ],
-      "palette": [
-        "黑白灰",
-        "蓝色系"
-      ],
-      "silhouette": [
-        "利落"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "夏季"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/503.jpg",
-    "order": 148
-  },
-  {
-    "id": "look-5c1c64b63936",
-    "title": "米白短袖与迷彩长裤",
-    "image": "https://cdn.wimg.jp/coordinate/2e1e1m/20190611111501423/20190611111501423_276.jpg",
-    "source": "https://wear.jp/diamondlayla_jp/14823568/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "轻薄"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "大地色",
-        "浅色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "夏季"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/504.jpg",
-    "order": 149
-  },
-  {
-    "id": "look-64b639de611a",
-    "title": "白色西装套装",
-    "image": "https://cdn.wimg.jp/coordinate/imm4wd/20170511101852181/20170511101852181_276.jpg",
-    "source": "https://wear.jp/ByTheRjp/9936851/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "浅色系"
-      ],
-      "silhouette": [
-        "利落"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/508.jpg",
-    "order": 150
-  },
-  {
-    "id": "look-25cbe747d5d5",
-    "title": "蓝白条纹衬衫与黑色长裤",
-    "image": "https://cdn.wimg.jp/coordinate/qmfdkk/20180906213740077/20180906213740077_276.jpg",
-    "source": "https://wear.jp/ryutagdf/13110112/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "蓝色系",
-        "黑白灰"
-      ],
-      "silhouette": [
-        "利落"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/510.jpg",
-    "order": 151
-  },
-  {
-    "id": "look-90983dd03beb",
-    "title": "牛仔外套与灰棕长裤",
-    "image": "https://cdn.wimg.jp/coordinate/jpxe06/20190202124657499/20190202124657499_276.jpg",
-    "source": "https://wear.jp/tositen/13372783/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "蓝色系",
-        "大地色"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/511.jpg",
-    "order": 152
-  },
-  {
-    "id": "look-5b6d6e9633f6",
-    "title": "黑色长袖与棕色阔腿裤",
-    "image": "https://images.wear2.jp/coordinate/YMiXwM5/xgMDs8CK/1764298245_276.jpg",
-    "source": "https://wear.jp/wearsmith/26066619/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "大地色"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/512.jpg",
-    "order": 153
-  },
-  {
-    "id": "look-e8bf4cd70c98",
-    "title": "连帽衬衫与卡其长裤",
-    "image": "https://images.wear2.jp/coordinate/WjiBm5v3/HecJY9ws/1764089931_276.jpg",
-    "source": "https://wear.jp/eyecandyboyyyy/26058215/",
-    "sourceName": "WEAR",
-    "selectionBasis": "韩系标签男生人气列表",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
       ],
       "palette": [
         "大地色"
@@ -5166,1521 +1890,13 @@
         "叠穿"
       ],
       "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/513.jpg",
-    "order": 154
-  },
-  {
-    "id": "look-29917733aee7",
-    "title": "全黑夹克与阔腿裤",
-    "image": "https://images.wear2.jp/coordinate/XxirARkj/nHM5CtgY/1794444392_276.jpg",
-    "source": "https://wear.jp/343lazar2/27585316/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/306.jpg",
-    "order": 155
-  },
-  {
-    "id": "look-9fef562220e7",
-    "title": "灰绿夹克与深色长裤",
-    "image": "https://images.wear2.jp/coordinate/8BiX5aYM/wXedY8cb/1794474886_276.jpg",
-    "source": "https://wear.jp/anpas1006/27587324/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "大地色",
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/308.jpg",
-    "order": 156
-  },
-  {
-    "id": "look-b4389f073df2",
-    "title": "黑色厚外套与宽松长裤",
-    "image": "https://images.wear2.jp/coordinate/Mni7MREQ/OEdLHaXR/1794471752_276.jpg",
-    "source": "https://wear.jp/hellokeisuk/27587107/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "厚暖"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
         "秋冬"
       ]
     },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/312.jpg",
-    "order": 157
-  },
-  {
-    "id": "look-5ebe1c6ed408",
-    "title": "灰色短夹克与深色阔腿裤",
-    "image": "https://images.wear2.jp/coordinate/zaij2jqj/8CD3ki9x/1794123439_276.jpg",
-    "source": "https://wear.jp/yo0214/27562378/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/313.jpg",
-    "order": 158
-  },
-  {
-    "id": "look-2b2916a6ddac",
-    "title": "灰色牛仔夹克与深色长裤",
-    "image": "https://images.wear2.jp/coordinate/8BiLEndo/LY3Isvub/1794475548_276.jpg",
-    "source": "https://wear.jp/erst2019/27587395/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/314.jpg",
-    "order": 159
-  },
-  {
-    "id": "look-48fbd3dddaa0",
-    "title": "深色毛领外套与浅蓝牛仔",
-    "image": "https://images.wear2.jp/coordinate/gGikdzqk/GwMXf1MP/1794464228_276.jpg",
-    "source": "https://wear.jp/masaki04260/27586609/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "厚暖"
-      ],
-      "style": [
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "秋冬"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/315.jpg",
-    "order": 160
-  },
-  {
-    "id": "look-ab560302cbf9",
-    "title": "黑色夹克与蓝衬衫、卡其裤",
-    "image": "https://images.wear2.jp/coordinate/EJiPmpa2/Lx2cxRRv/1793450627_276.jpg",
-    "source": "https://wear.jp/dieselbluenote/27519433/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "蓝色系",
-        "大地色"
-      ],
-      "silhouette": [
-        "利落"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/316.jpg",
-    "order": 161
-  },
-  {
-    "id": "look-9488e44ec4d5",
-    "title": "红色夹克与蓝色牛仔",
-    "image": "https://images.wear2.jp/coordinate/4XiqWM7z/LnkOE3AQ/1794475460_276.jpg",
-    "source": "https://wear.jp/kaishu555/27587380/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "蓝色系",
-        "亮色点缀"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/317.jpg",
-    "order": 162
-  },
-  {
-    "id": "look-4e6cd8879b5b",
-    "title": "深色毛领夹克与浅蓝牛仔",
-    "image": "https://images.wear2.jp/coordinate/bBileOko/ZWUdlF0x/1794461686_276.jpg",
-    "source": "https://wear.jp/sket0117/27586430/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "厚暖"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "黑白灰",
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "秋冬"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/319.jpg",
-    "order": 163
-  },
-  {
-    "id": "look-f33758c4eae5",
-    "title": "黑色运动套装",
-    "image": "https://images.wear2.jp/coordinate/p3iqGb7q/lO9ho8bH/1794470480_276.jpg",
-    "source": "https://wear.jp/crewtiger/27587015/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/321.jpg",
-    "order": 164
-  },
-  {
-    "id": "look-6e2782901bfa",
-    "title": "棕色衬衫与深色长裤",
-    "image": "https://images.wear2.jp/coordinate/BeiZgLPP/dTGbiB3P/1794433626_276.jpg",
-    "source": "https://wear.jp/koheiblog/27584422/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "大地色",
-        "黑白灰"
-      ],
-      "silhouette": [
-        "利落"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/325.jpg",
-    "order": 165
-  },
-  {
-    "id": "look-1e7037bf6be5",
-    "title": "藏蓝衬衫与黑色阔腿裤",
-    "image": "https://images.wear2.jp/coordinate/ywimV7p8/Qdm1pyX2/1792371901_276.jpg",
-    "source": "https://wear.jp/koootakota/27487307/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "蓝色系",
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/326.jpg",
-    "order": 166
-  },
-  {
-    "id": "look-1d093d78c242",
-    "title": "浅蓝衬衫与黑色阔腿裤",
-    "image": "https://images.wear2.jp/coordinate/zaiZPEMq/n5pfE98H/1794476114_276.jpg",
-    "source": "https://wear.jp/wfymkn2410/27587442/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "蓝色系",
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/327.jpg",
-    "order": 167
-  },
-  {
-    "id": "look-ba238b3e1bb5",
-    "title": "棕色夹克与深色长裤",
-    "image": "https://images.wear2.jp/coordinate/YMibJzWz/EfYfhpHT/1793888862_276.jpg",
-    "source": "https://wear.jp/ootake0120/27560701/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "大地色",
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/328.jpg",
-    "order": 168
-  },
-  {
-    "id": "look-d8454a2bb90b",
-    "title": "细条纹衬衫与灰色阔腿裤",
-    "image": "https://images.wear2.jp/coordinate/V7ik3g7/iOIP7mUU/1794450484_276.jpg",
-    "source": "https://wear.jp/sasatoshi/27585696/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/330.jpg",
-    "order": 169
-  },
-  {
-    "id": "look-da961bf2121b",
-    "title": "棕色短夹克与蓝色牛仔",
-    "image": "https://images.wear2.jp/coordinate/DZiMmG0M/WGfrFI5D/1791069033_276.jpg",
-    "source": "https://wear.jp/saaya3107/27423280/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "大地色",
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/334.jpg",
-    "order": 170
-  },
-  {
-    "id": "look-b4ded7a2244f",
-    "title": "棕色大衣与灰色连帽衫",
-    "image": "https://images.wear2.jp/coordinate/Mniv4bE/frXStPqw/1794149101_276.jpg",
-    "source": "https://wear.jp/tsuguya/27572560/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "厚暖"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "大地色",
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "秋冬"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/335.jpg",
-    "order": 171
-  },
-  {
-    "id": "look-8a4bfef6501d",
-    "title": "灰色毛绒针织与黑色阔腿裤",
-    "image": "https://images.wear2.jp/coordinate/DZiMQYGJ/68UYUene/1794477065_276.jpg",
-    "source": "https://wear.jp/showwwear/27587499/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/337.jpg",
-    "order": 172
-  },
-  {
-    "id": "look-c3041b15a8f1",
-    "title": "深色西装外套与阔腿裤",
-    "image": "https://images.wear2.jp/coordinate/7biVkx5/I5UEzYle/1794461353_276.jpg",
-    "source": "https://wear.jp/eeee/27586409/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "大地色",
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/338.jpg",
-    "order": 173
-  },
-  {
-    "id": "look-587446592b34",
-    "title": "灰色连帽衫与蓝色牛仔",
-    "image": "https://images.wear2.jp/coordinate/ekiqrZld/F3y0ME3Z/1794477486_276.jpg",
-    "source": "https://wear.jp/rooptokyokk/27587544/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "蓝色系",
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/342.jpg",
-    "order": 174
-  },
-  {
-    "id": "look-15279e5127bf",
-    "title": "藏蓝开衫与灰色西裤",
-    "image": "https://images.wear2.jp/coordinate/7biB5V7k/7LwMp7pF/1794477609_276.jpg",
-    "source": "https://wear.jp/amhrr1026/27587552/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "蓝色系",
-        "黑白灰"
-      ],
-      "silhouette": [
-        "利落"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/343.jpg",
-    "order": 175
-  },
-  {
-    "id": "look-d5892e30c60a",
-    "title": "深色工作夹克与黑色长裤",
-    "image": "https://images.wear2.jp/coordinate/jmi8Da5b/fFy10z64/1794481517_276.jpg",
-    "source": "https://wear.jp/yutwi/27587804/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/346.jpg",
-    "order": 176
-  },
-  {
-    "id": "look-fc505384d074",
-    "title": "条纹开衫叠穿灰色连帽衫",
-    "image": "https://images.wear2.jp/coordinate/YMiQJ4EO/tbVUEj3p/1794373122_276.jpg",
-    "source": "https://wear.jp/SHIPS_7305amoku/27582153/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "大地色",
-        "亮色点缀"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/347.jpg",
-    "order": 177
-  },
-  {
-    "id": "look-97b64502386a",
-    "title": "黑色皮夹克与卡其工装裤",
-    "image": "https://images.wear2.jp/coordinate/YMiQPz7Q/eJd87sFD/1794432481_276.jpg",
-    "source": "https://wear.jp/hitujihane/27584417/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "黑白灰",
-        "大地色"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/348.jpg",
-    "order": 178
-  },
-  {
-    "id": "look-6065114a0244",
-    "title": "藏蓝上衣与浅蓝宽腿牛仔",
-    "image": "https://images.wear2.jp/coordinate/bBie3w87/9YXyMoSt/1791366284_276.jpg",
-    "source": "https://wear.jp/nakamuramizuki0702/27438022/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/349.jpg",
-    "order": 179
-  },
-  {
-    "id": "look-095e97707216",
-    "title": "灰绿夹克与深色长裤",
-    "image": "https://images.wear2.jp/coordinate/zaibglLM/5Z7mmZz9/1794474871_276.jpg",
-    "source": "https://wear.jp/tomoh03250126/27587323/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "大地色",
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/350.jpg",
-    "order": 180
-  },
-  {
-    "id": "look-0e2a18007d72",
-    "title": "灰色衬衫与深色阔腿裤",
-    "image": "https://images.wear2.jp/coordinate/nZinPaO0/vwcXVjqz/1790807930_276.jpg",
-    "source": "https://wear.jp/teru14/27411738/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/352.jpg",
-    "order": 181
-  },
-  {
-    "id": "look-27c169b1cc10",
-    "title": "深灰西装与全黑内搭",
-    "image": "https://images.wear2.jp/coordinate/rliWBozY/jDu4l2P2/1794268483_276.jpg",
-    "source": "https://wear.jp/ren2883/27576854/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/353.jpg",
-    "order": 182
-  },
-  {
-    "id": "look-5601872bd87f",
-    "title": "黑色夹克与深蓝长裤",
-    "image": "https://images.wear2.jp/coordinate/xVidnk7n/o6lFr6iA/1793084234_276.jpg",
-    "source": "https://wear.jp/sorachi23/27522216/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "黑白灰",
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/355.jpg",
-    "order": 183
-  },
-  {
-    "id": "look-d80ba539f7b2",
-    "title": "棕灰夹克与浅蓝衬衫",
-    "image": "https://images.wear2.jp/coordinate/bBiedw3n/XgV4rg24/1793926957_276.jpg",
-    "source": "https://wear.jp/ohsuke314422/27561822/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "黑白灰",
-        "大地色",
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/356.jpg",
-    "order": 184
-  },
-  {
-    "id": "look-96aa99a417b4",
-    "title": "黑色皮夹克与黑色阔腿裤",
-    "image": "https://images.wear2.jp/coordinate/qrizRJq/x1b3Gm6V/1793508347_276.jpg",
-    "source": "https://wear.jp/genji/27543716/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/357.jpg",
-    "order": 185
-  },
-  {
-    "id": "look-5546c60a3c5f",
-    "title": "黑色连帽衫与深色阔腿裤",
-    "image": "https://images.wear2.jp/coordinate/xVidplY8/iMTp37GV/1794456040_276.jpg",
-    "source": "https://wear.jp/yuno031/27586085/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/358.jpg",
-    "order": 186
-  },
-  {
-    "id": "look-c2ab7b84502a",
-    "title": "黑色夹克与灰色内搭",
-    "image": "https://images.wear2.jp/coordinate/DZiMoEL4/fTs2VZ87/1794470854_276.jpg",
-    "source": "https://wear.jp/2010160329/27587044/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/359.jpg",
-    "order": 187
-  },
-  {
-    "id": "look-2376306ef412",
-    "title": "黑色拉链上衣与灰蓝牛仔",
-    "image": "https://images.wear2.jp/coordinate/Mniq77wZ/UYgzvSLw/1794293503_276.jpg",
-    "source": "https://wear.jp/maaaaa51/27578873/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/361.jpg",
-    "order": 188
-  },
-  {
-    "id": "look-b72629299f91",
-    "title": "黑白格纹外套与深棕长裤",
-    "image": "https://images.wear2.jp/coordinate/Bei28D/7OXJVYEn/1794411554_276.jpg",
-    "source": "https://wear.jp/m6485m1418/27584327/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "黑白灰",
-        "大地色"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/362.jpg",
-    "order": 189
-  },
-  {
-    "id": "look-8bb25e6df6ee",
-    "title": "深色厚毛绒外套与蓝色牛仔",
-    "image": "https://images.wear2.jp/coordinate/V7ipyBky/vnS1wwzR/1794472362_276.jpg",
-    "source": "https://wear.jp/yukioutfits/27587141/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "厚暖"
-      ],
-      "style": [
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "秋冬"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/363.jpg",
-    "order": 190
-  },
-  {
-    "id": "look-121d244e9a19",
-    "title": "棕色厚夹克与灰色长裤",
-    "image": "https://images.wear2.jp/coordinate/ywimpwe5/YoWSdInR/1794462424_276.jpg",
-    "source": "https://wear.jp/ax_bjz200/27586483/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "厚暖"
-      ],
-      "style": [
-        "休闲",
-        "复古"
-      ],
-      "palette": [
-        "大地色",
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "秋冬"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/364.jpg",
-    "order": 191
-  },
-  {
-    "id": "look-bad28043bbe8",
-    "title": "黑色皮夹克与灰色牛仔",
-    "image": "https://images.wear2.jp/coordinate/Owibd3m6/6gP4tk0E/1791475936_276.jpg",
-    "source": "https://wear.jp/asu0026/27443450/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/367.jpg",
-    "order": 192
-  },
-  {
-    "id": "look-5abf42475e08",
-    "title": "灰色外套叠穿棕色连帽衫",
-    "image": "https://images.wear2.jp/coordinate/3oidEk8M/kN29Sj9N/1794436775_276.jpg",
-    "source": "https://wear.jp/mise2250/27584448/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰",
-        "大地色"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/368.jpg",
-    "order": 193
-  },
-  {
-    "id": "look-2dc9d9f6c6b0",
-    "title": "棕色连帽衫与蓝色牛仔",
-    "image": "https://images.wear2.jp/coordinate/6ginxD5J/mz9hTswi/1794462753_276.jpg",
-    "source": "https://wear.jp/pubwomen1909/27586515/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "休闲"
-      ],
-      "palette": [
-        "大地色",
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "简洁单层"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/370.jpg",
-    "order": 194
-  },
-  {
-    "id": "look-2faaa708bb43",
-    "title": "黑色短夹克与灰色内搭",
-    "image": "https://images.wear2.jp/coordinate/jmieoMxO/dwQqi9Oc/1794318628_276.jpg",
-    "source": "https://wear.jp/syun0809/27580261/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/374.jpg",
-    "order": 195
-  },
-  {
-    "id": "look-4c7fd1e73456",
-    "title": "深灰长大衣与蓝色牛仔",
-    "image": "https://images.wear2.jp/coordinate/EJiqj7RD/UJ2dDJzR/1794273476_276.jpg",
-    "source": "https://wear.jp/kyota0245/27577592/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "厚暖"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "黑白灰",
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "秋冬"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/378.jpg",
-    "order": 196
-  },
-  {
-    "id": "look-08931e70b139",
-    "title": "黑色长大衣与酒红围巾",
-    "image": "https://images.wear2.jp/coordinate/oJizV4pM/6qxwHAhc/1794321914_276.jpg",
-    "source": "https://wear.jp/kose08/27580370/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "厚暖"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "黑白灰",
-        "亮色点缀"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "秋冬"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/380.jpg",
-    "order": 197
-  },
-  {
-    "id": "look-b8d0523d11fe",
-    "title": "棕色夹克与浅蓝牛仔",
-    "image": "https://images.wear2.jp/coordinate/ywim8WEo/UbQGlRKR/1794344207_276.jpg",
-    "source": "https://wear.jp/yunic5706/27580555/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "适中"
-      ],
-      "style": [
-        "简约",
-        "休闲"
-      ],
-      "palette": [
-        "大地色",
-        "蓝色系"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "春秋"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/384.jpg",
-    "order": 198
-  },
-  {
-    "id": "look-04d6c8945fef",
-    "title": "黑色长大衣与领带叠穿",
-    "image": "https://images.wear2.jp/coordinate/PaikL34v/ZnozRJGA/1794207600_276.jpg",
-    "source": "https://wear.jp/itkwear/27575023/",
-    "sourceName": "WEAR",
-    "selectionBasis": "男生穿搭排行榜",
-    "facets": {
-      "thickness": [
-        "厚暖"
-      ],
-      "style": [
-        "简约",
-        "通勤"
-      ],
-      "palette": [
-        "黑白灰"
-      ],
-      "silhouette": [
-        "宽松"
-      ],
-      "layering": [
-        "叠穿"
-      ],
-      "season": [
-        "秋冬"
-      ]
-    },
-    "tagMethod": "manual-visual-review",
-    "capturedDate": "2026-11-12",
-    "previewFile": "outputs/v2/previews/385.jpg",
-    "order": 199
+    "note": "韩系男生 · 整套灵感",
+    "tagMethod": "gpt-visual-review",
+    "reviewIndex": 84,
+    "reviewedMediaIndex": 0,
+    "previewFile": "outputs/v3/previews/084.jpg"
   }
 ]
