@@ -1,0 +1,14 @@
+import assert from 'node:assert/strict';
+import {matches,rank,weights} from '../app/engine.js';
+const make=(id,order,style,palette)=>({id,order,facets:{style:[style],palette:[palette]}});
+const items=[make('a',0,'简约','黑白灰'),make('b',1,'休闲','蓝色系'),make('c',2,'简约','蓝色系')];
+assert(matches(items[0],{style:['简约','休闲'],palette:['黑白灰']}));
+assert(!matches(items[1],{style:['简约','休闲'],palette:['黑白灰']}));
+assert.equal(rank(items,{a:'like'},{})[0].id,'c');
+assert.equal(rank(items,{a:'want'},{})[0].id,'c');
+assert(!rank(items,{a:'pass'},{}).some(i=>i.id==='a'));
+assert.deepEqual(rank(items,{}, {style:['不存在']}),[]);
+assert.equal(weights(items,{a:'want'})['style:简约'],2.5);
+assert.equal(weights(items,{a:'like'})['style:简约'],1);
+assert.deepEqual(weights(items,{}),{'style:简约':0,'palette:黑白灰':0,'style:休闲':0,'palette:蓝色系':0});
+console.log('PASS: AND/OR, ranking, hidden decisions, empty filters, reversible final-state weights');
