@@ -1,5 +1,9 @@
 # 穿搭偏好 · 韩系男生
 
+网站：https://minghe4419.github.io/outfit-swipe/
+
+仓库：https://github.com/Minghe4419/outfit-swipe
+
 手机优先的个人穿搭发现 demo。原生 HTML/CSS/JavaScript，无第三方前端依赖和在线 AI 调用。
 
 - 左滑不喜欢、右滑喜欢、想穿按钮、撤销；支持方向键与按钮。
